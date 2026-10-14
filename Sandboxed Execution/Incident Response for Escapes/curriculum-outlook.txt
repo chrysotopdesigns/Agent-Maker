@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Incident Response for Escapes**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Incident Response for Escapes within Sandboxed Execution practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Incident Response for Escapes and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Incident Response for Escapes**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Incident Response for Escapes, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Incident Response for Escapes environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Incident Response for Escapes**
+
+**Summary:** Hands-on core techniques of Incident Response for Escapes applied to small realistic Sandboxed Execution projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Incident Response for Escapes techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Incident Response for Escapes**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Incident Response for Escapes work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Incident Response for Escapes patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Incident Response for Escapes**
+
+**Summary:** How to verify Incident Response for Escapes work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Incident Response for Escapes work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Incident Response for Escapes**
+
+**Summary:** Using Incident Response for Escapes inside larger Sandboxed Execution workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Incident Response for Escapes outputs into a larger Sandboxed Execution workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Incident Response for Escapes**
+
+**Summary:** Advanced methods in Incident Response for Escapes for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Incident Response for Escapes methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Incident Response for Escapes**
+
+**Summary:** Making Incident Response for Escapes work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Incident Response for Escapes work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Incident Response for Escapes**
+
+**Summary:** Protecting Incident Response for Escapes work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Incident Response for Escapes work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Incident Response for Escapes**
+
+**Summary:** Making Incident Response for Escapes work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Incident Response for Escapes work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Incident Response for Escapes**
+
+**Summary:** Realistic Sandboxed Execution case studies using Incident Response for Escapes under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Incident Response for Escapes results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Incident Response for Escapes**
+
+**Summary:** Expert-level judgment in Incident Response for Escapes, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Incident Response for Escapes work with portfolio-ready proof.

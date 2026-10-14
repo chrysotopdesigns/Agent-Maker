@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Threat Intel & Trend Tracking**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Threat Intel & Trend Tracking within Adversarial Machine Learning practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Threat Intel & Trend Tracking and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Threat Intel & Trend Tracking**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Threat Intel & Trend Tracking, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Threat Intel & Trend Tracking environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Threat Intel & Trend Tracking**
+
+**Summary:** Hands-on core techniques of Threat Intel & Trend Tracking applied to small realistic Adversarial Machine Learning projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Threat Intel & Trend Tracking techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Threat Intel & Trend Tracking**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Threat Intel & Trend Tracking work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Threat Intel & Trend Tracking patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Threat Intel & Trend Tracking**
+
+**Summary:** How to verify Threat Intel & Trend Tracking work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Threat Intel & Trend Tracking work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Threat Intel & Trend Tracking**
+
+**Summary:** Using Threat Intel & Trend Tracking inside larger Adversarial Machine Learning workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Threat Intel & Trend Tracking outputs into a larger Adversarial Machine Learning workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Threat Intel & Trend Tracking**
+
+**Summary:** Advanced methods in Threat Intel & Trend Tracking for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Threat Intel & Trend Tracking methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Threat Intel & Trend Tracking**
+
+**Summary:** Making Threat Intel & Trend Tracking work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Threat Intel & Trend Tracking work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Threat Intel & Trend Tracking**
+
+**Summary:** Protecting Threat Intel & Trend Tracking work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Threat Intel & Trend Tracking work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Threat Intel & Trend Tracking**
+
+**Summary:** Making Threat Intel & Trend Tracking work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Threat Intel & Trend Tracking work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Threat Intel & Trend Tracking**
+
+**Summary:** Realistic Adversarial Machine Learning case studies using Threat Intel & Trend Tracking under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Threat Intel & Trend Tracking results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Threat Intel & Trend Tracking**
+
+**Summary:** Expert-level judgment in Threat Intel & Trend Tracking, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Threat Intel & Trend Tracking work with portfolio-ready proof.

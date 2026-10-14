@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Boundary Thinking: Allowed vs Blocked within Guardrails practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Boundary Thinking: Allowed vs Blocked and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Boundary Thinking: Allowed vs Blocked, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Boundary Thinking: Allowed vs Blocked environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Hands-on core techniques of Boundary Thinking: Allowed vs Blocked applied to small realistic Guardrails projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Boundary Thinking: Allowed vs Blocked techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Boundary Thinking: Allowed vs Blocked work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Boundary Thinking: Allowed vs Blocked patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** How to verify Boundary Thinking: Allowed vs Blocked work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Boundary Thinking: Allowed vs Blocked work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Using Boundary Thinking: Allowed vs Blocked inside larger Guardrails workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Boundary Thinking: Allowed vs Blocked outputs into a larger Guardrails workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Advanced methods in Boundary Thinking: Allowed vs Blocked for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Boundary Thinking: Allowed vs Blocked methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Making Boundary Thinking: Allowed vs Blocked work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Boundary Thinking: Allowed vs Blocked work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Protecting Boundary Thinking: Allowed vs Blocked work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Boundary Thinking: Allowed vs Blocked work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Making Boundary Thinking: Allowed vs Blocked work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Boundary Thinking: Allowed vs Blocked work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Realistic Guardrails case studies using Boundary Thinking: Allowed vs Blocked under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Boundary Thinking: Allowed vs Blocked results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Boundary Thinking: Allowed vs Blocked**
+
+**Summary:** Expert-level judgment in Boundary Thinking: Allowed vs Blocked, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Boundary Thinking: Allowed vs Blocked work with portfolio-ready proof.

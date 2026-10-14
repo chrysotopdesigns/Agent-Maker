@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Evaluation: Trajectory Scoring**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Evaluation: Trajectory Scoring within Advanced ReAct (Reasoning and Acting) Frameworks practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Evaluation: Trajectory Scoring and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Evaluation: Trajectory Scoring**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Evaluation: Trajectory Scoring, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Evaluation: Trajectory Scoring environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Evaluation: Trajectory Scoring**
+
+**Summary:** Hands-on core techniques of Evaluation: Trajectory Scoring applied to small realistic Advanced ReAct (Reasoning and Acting) Frameworks projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Evaluation: Trajectory Scoring techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Evaluation: Trajectory Scoring**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Evaluation: Trajectory Scoring work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Evaluation: Trajectory Scoring patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Evaluation: Trajectory Scoring**
+
+**Summary:** How to verify Evaluation: Trajectory Scoring work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Evaluation: Trajectory Scoring work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Evaluation: Trajectory Scoring**
+
+**Summary:** Using Evaluation: Trajectory Scoring inside larger Advanced ReAct (Reasoning and Acting) Frameworks workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Evaluation: Trajectory Scoring outputs into a larger Advanced ReAct (Reasoning and Acting) Frameworks workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Evaluation: Trajectory Scoring**
+
+**Summary:** Advanced methods in Evaluation: Trajectory Scoring for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Evaluation: Trajectory Scoring methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Evaluation: Trajectory Scoring**
+
+**Summary:** Making Evaluation: Trajectory Scoring work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Evaluation: Trajectory Scoring work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Evaluation: Trajectory Scoring**
+
+**Summary:** Protecting Evaluation: Trajectory Scoring work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Evaluation: Trajectory Scoring work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Evaluation: Trajectory Scoring**
+
+**Summary:** Making Evaluation: Trajectory Scoring work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Evaluation: Trajectory Scoring work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Evaluation: Trajectory Scoring**
+
+**Summary:** Realistic Advanced ReAct (Reasoning and Acting) Frameworks case studies using Evaluation: Trajectory Scoring under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Evaluation: Trajectory Scoring results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Evaluation: Trajectory Scoring**
+
+**Summary:** Expert-level judgment in Evaluation: Trajectory Scoring, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Evaluation: Trajectory Scoring work with portfolio-ready proof.

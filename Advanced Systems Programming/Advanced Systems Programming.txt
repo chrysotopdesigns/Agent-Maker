@@ -1,0 +1,15 @@
+1. Systems Thinking: Processes & Resources - Builds OS-level mental models.
+2. Concurrency: Threads, Async & Actors - Gives race-free agent runner design.
+3. Inter-Process Communication - Shows queues, pipes, and shared memory.
+4. Networking: Sockets & Protocols - Covers efficient model-API transport.
+5. File Systems & Concurrent Access - Shows safe parallel file handling.
+6. Memory Management & Profiling - Covers lean long-running runners.
+7. Scheduling & Backpressure - Shows overload-proof execution.
+8. Observability: Metrics & Tracing - Teaches production systems insight.
+9. Performance: Benchmarking & Flame Graphs - Covers finding real bottlenecks.
+10. Zero-Copy & Batching - Shows high-throughput data paths.
+11. Reliability: Supervisors & Restarts - Covers self-healing runners.
+12. Security: Privilege Dropping & Pledges - Shows minimal-capability processes.
+13. Cross-Platform Portability - Covers identical behavior everywhere.
+14. Testing: Stress & Chaos - Shows proving systems under pressure.
+15. Delivery: Runbooks & Capacity Plans - Enables operable agent infrastructure.

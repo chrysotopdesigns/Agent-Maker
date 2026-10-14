@@ -1,0 +1,15 @@
+1. State Machine Thinking for Agents - Builds explicit-state discipline.
+2. States, Transitions & Guards - Gives rigorous flow control.
+3. Mapping Agent Phases to States - Shows Planning, Executing, Recovery design.
+4. Event-Driven Transitions - Covers reacting to tool and model outputs.
+5. Guardrails as Transition Rules - Shows bounding nondeterminism structurally.
+6. Hierarchical & Parallel States - Covers complex agent lifecycles.
+7. Persistence & Crash Recovery - Shows resuming agents mid-state.
+8. Visualization & State Diagrams - Teaches reviewable machine specs.
+9. Testing: Transition Coverage - Covers proving all paths safe.
+10. Timeouts & Deadlock Avoidance - Shows escaping stuck states.
+11. Frameworks: State Libraries & DSLs - Gives implementation stack fluency.
+12. Logging State Histories - Covers forensic agent debugging.
+13. Human Gates as States - Shows approval-state integration.
+14. Refactoring Spaghetti Prompts to Machines - Teaches migrating chaos to structure.
+15. Delivery: Certified State Charts - Enables safety-reviewed agent flows.

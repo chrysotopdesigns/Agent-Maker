@@ -1,0 +1,15 @@
+1. Control Loop Thinking: Sense-Plan-Act - Builds closed-loop agent intuition.
+2. Goal Specification & Done Criteria - Gives machine-checkable completion rules.
+3. Self-Evaluation & Critic Models - Shows agents judging their own work.
+4. Iteration Budgets & Stopping Rules - Covers preventing infinite loops.
+5. Error Detection & Self-Correction - Teaches retry-with-fix cycles.
+6. Planning Horizons: Greedy vs Lookahead - Shows balancing speed and foresight.
+7. Tool Feedback Integration - Covers learning from execution results.
+8. Stuck Detection & Escape Strategies - Shows breaking out of dead-ends.
+9. Logging & Loop Transparency - Teaches auditable autonomous runs.
+10. Safety Bounds & Kill Switches - Covers constraining runaway autonomy.
+11. Testing Loops: Simulations & Sandboxes - Shows proving loops before freedom.
+12. Cost & Latency Guardrails - Covers bounded autonomous spend.
+13. Multi-Goal Prioritization - Shows juggling competing objectives.
+14. Human Override & Takeover UX - Covers graceful human intervention.
+15. Delivery: Autonomous Run Reports - Enables trusted independent operation.

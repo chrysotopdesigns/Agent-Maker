@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Schema Validation & Repair**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Schema Validation & Repair within Unified API Translation practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Schema Validation & Repair and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Schema Validation & Repair**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Schema Validation & Repair, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Schema Validation & Repair environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Schema Validation & Repair**
+
+**Summary:** Hands-on core techniques of Schema Validation & Repair applied to small realistic Unified API Translation projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Schema Validation & Repair techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Schema Validation & Repair**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Schema Validation & Repair work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Schema Validation & Repair patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Schema Validation & Repair**
+
+**Summary:** How to verify Schema Validation & Repair work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Schema Validation & Repair work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Schema Validation & Repair**
+
+**Summary:** Using Schema Validation & Repair inside larger Unified API Translation workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Schema Validation & Repair outputs into a larger Unified API Translation workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Schema Validation & Repair**
+
+**Summary:** Advanced methods in Schema Validation & Repair for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Schema Validation & Repair methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Schema Validation & Repair**
+
+**Summary:** Making Schema Validation & Repair work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Schema Validation & Repair work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Schema Validation & Repair**
+
+**Summary:** Protecting Schema Validation & Repair work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Schema Validation & Repair work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Schema Validation & Repair**
+
+**Summary:** Making Schema Validation & Repair work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Schema Validation & Repair work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Schema Validation & Repair**
+
+**Summary:** Realistic Unified API Translation case studies using Schema Validation & Repair under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Schema Validation & Repair results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Schema Validation & Repair**
+
+**Summary:** Expert-level judgment in Schema Validation & Repair, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Schema Validation & Repair work with portfolio-ready proof.

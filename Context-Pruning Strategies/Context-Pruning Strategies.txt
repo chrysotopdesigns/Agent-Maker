@@ -1,0 +1,15 @@
+1. Pruning Thinking: Signal over Noise - Builds ruthless-relevance discipline.
+2. Redundancy Detection & Dedup - Gives repeated-content removal.
+3. Log Compaction & Event Extraction - Shows keeping outcomes, dropping chatter.
+4. Tool-Output Trimming - Covers huge-result summarization.
+5. Formatting Noise Removal - Shows stripping tokens that add nothing.
+6. Semantic Filtering & Reranking - Covers keeping only on-task content.
+7. Aggressive vs Safe Prune Modes - Shows tunable focus levels.
+8. Prune-and-Verify Loops - Covers proving nothing vital lost.
+9. Caching Pruned Contexts - Shows reusable lean prompts.
+10. Domain Stop-Lists & Allow-Lists - Covers rule-assisted pruning.
+11. Measuring Focus Gains - Shows speed and cost improvements.
+12. Adaptive Pruning by Pressure - Covers pruning harder when fuller.
+13. Recovery: Fetch-Back Protocols - Shows restoring over-pruned facts.
+14. Testing Pruners on Benchmarks - Covers quality-gated pruning.
+15. Delivery: Pruning Playbooks - Enables team-standard focus pipelines.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Dependency Thinking: Graphs & Locks**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Dependency Thinking: Graphs & Locks within Dependency Management (using modern tools like uv) practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Dependency Thinking: Graphs & Locks and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Dependency Thinking: Graphs & Locks**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Dependency Thinking: Graphs & Locks, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Dependency Thinking: Graphs & Locks environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Dependency Thinking: Graphs & Locks**
+
+**Summary:** Hands-on core techniques of Dependency Thinking: Graphs & Locks applied to small realistic Dependency Management (using modern tools like uv) projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Dependency Thinking: Graphs & Locks techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Dependency Thinking: Graphs & Locks**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Dependency Thinking: Graphs & Locks work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Dependency Thinking: Graphs & Locks patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Dependency Thinking: Graphs & Locks**
+
+**Summary:** How to verify Dependency Thinking: Graphs & Locks work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Dependency Thinking: Graphs & Locks work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Dependency Thinking: Graphs & Locks**
+
+**Summary:** Using Dependency Thinking: Graphs & Locks inside larger Dependency Management (using modern tools like uv) workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Dependency Thinking: Graphs & Locks outputs into a larger Dependency Management (using modern tools like uv) workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Dependency Thinking: Graphs & Locks**
+
+**Summary:** Advanced methods in Dependency Thinking: Graphs & Locks for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Dependency Thinking: Graphs & Locks methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Dependency Thinking: Graphs & Locks**
+
+**Summary:** Making Dependency Thinking: Graphs & Locks work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Dependency Thinking: Graphs & Locks work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Dependency Thinking: Graphs & Locks**
+
+**Summary:** Protecting Dependency Thinking: Graphs & Locks work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Dependency Thinking: Graphs & Locks work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Dependency Thinking: Graphs & Locks**
+
+**Summary:** Making Dependency Thinking: Graphs & Locks work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Dependency Thinking: Graphs & Locks work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Dependency Thinking: Graphs & Locks**
+
+**Summary:** Realistic Dependency Management (using modern tools like uv) case studies using Dependency Thinking: Graphs & Locks under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Dependency Thinking: Graphs & Locks results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Dependency Thinking: Graphs & Locks**
+
+**Summary:** Expert-level judgment in Dependency Thinking: Graphs & Locks, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Dependency Thinking: Graphs & Locks work with portfolio-ready proof.

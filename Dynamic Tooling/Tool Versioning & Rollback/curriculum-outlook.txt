@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Tool Versioning & Rollback**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Tool Versioning & Rollback within Dynamic Tooling practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Tool Versioning & Rollback and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Tool Versioning & Rollback**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Tool Versioning & Rollback, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Tool Versioning & Rollback environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Tool Versioning & Rollback**
+
+**Summary:** Hands-on core techniques of Tool Versioning & Rollback applied to small realistic Dynamic Tooling projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Tool Versioning & Rollback techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Tool Versioning & Rollback**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Tool Versioning & Rollback work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Tool Versioning & Rollback patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Tool Versioning & Rollback**
+
+**Summary:** How to verify Tool Versioning & Rollback work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Tool Versioning & Rollback work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Tool Versioning & Rollback**
+
+**Summary:** Using Tool Versioning & Rollback inside larger Dynamic Tooling workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Tool Versioning & Rollback outputs into a larger Dynamic Tooling workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Tool Versioning & Rollback**
+
+**Summary:** Advanced methods in Tool Versioning & Rollback for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Tool Versioning & Rollback methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Tool Versioning & Rollback**
+
+**Summary:** Making Tool Versioning & Rollback work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Tool Versioning & Rollback work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Tool Versioning & Rollback**
+
+**Summary:** Protecting Tool Versioning & Rollback work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Tool Versioning & Rollback work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Tool Versioning & Rollback**
+
+**Summary:** Making Tool Versioning & Rollback work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Tool Versioning & Rollback work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Tool Versioning & Rollback**
+
+**Summary:** Realistic Dynamic Tooling case studies using Tool Versioning & Rollback under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Tool Versioning & Rollback results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Tool Versioning & Rollback**
+
+**Summary:** Expert-level judgment in Tool Versioning & Rollback, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Tool Versioning & Rollback work with portfolio-ready proof.

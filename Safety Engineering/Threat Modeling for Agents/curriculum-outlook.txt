@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Threat Modeling for Agents**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Threat Modeling for Agents within Safety Engineering practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Threat Modeling for Agents and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Threat Modeling for Agents**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Threat Modeling for Agents, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Threat Modeling for Agents environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Threat Modeling for Agents**
+
+**Summary:** Hands-on core techniques of Threat Modeling for Agents applied to small realistic Safety Engineering projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Threat Modeling for Agents techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Threat Modeling for Agents**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Threat Modeling for Agents work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Threat Modeling for Agents patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Threat Modeling for Agents**
+
+**Summary:** How to verify Threat Modeling for Agents work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Threat Modeling for Agents work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Threat Modeling for Agents**
+
+**Summary:** Using Threat Modeling for Agents inside larger Safety Engineering workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Threat Modeling for Agents outputs into a larger Safety Engineering workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Threat Modeling for Agents**
+
+**Summary:** Advanced methods in Threat Modeling for Agents for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Threat Modeling for Agents methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Threat Modeling for Agents**
+
+**Summary:** Making Threat Modeling for Agents work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Threat Modeling for Agents work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Threat Modeling for Agents**
+
+**Summary:** Protecting Threat Modeling for Agents work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Threat Modeling for Agents work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Threat Modeling for Agents**
+
+**Summary:** Making Threat Modeling for Agents work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Threat Modeling for Agents work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Threat Modeling for Agents**
+
+**Summary:** Realistic Safety Engineering case studies using Threat Modeling for Agents under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Threat Modeling for Agents results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Threat Modeling for Agents**
+
+**Summary:** Expert-level judgment in Threat Modeling for Agents, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Threat Modeling for Agents work with portfolio-ready proof.

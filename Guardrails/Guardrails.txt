@@ -1,0 +1,15 @@
+1. Boundary Thinking: Allowed vs Blocked - Builds policy-first design.
+2. Input Validation & Sanitization - Gives injection-resistant entries.
+3. Output Classifiers & Filters - Shows professional-polite enforcement.
+4. Topic & Scope Confinement - Covers laser-focused task adherence.
+5. PII & Secret Redaction - Shows leak-proof responses.
+6. Tone & Brand Policies - Covers consistent personality guardrails.
+7. Tool-Action Allow-Lists - Shows blocking dangerous operations.
+8. Confidence Thresholds & Abstention - Covers knowing when to refuse.
+9. Layered Defense: Pre, Mid & Post - Shows checks at every stage.
+10. Testing Guardrails Adversarially - Covers proving boundaries hold.
+11. False-Positive Tuning - Shows strict without being broken.
+12. Audit Logs & Override Records - Covers accountable boundary decisions.
+13. Real-Time Policy Updates - Shows evolving rules without redeploys.
+14. Multi-Tenant Policy Scoping - Covers per-customer guardrail sets.
+15. Delivery: Guardrail Certifications - Enables compliance-ready agents.

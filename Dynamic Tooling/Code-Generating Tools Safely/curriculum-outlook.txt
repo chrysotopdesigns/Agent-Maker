@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Code-Generating Tools Safely**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Code-Generating Tools Safely within Dynamic Tooling practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Code-Generating Tools Safely and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Code-Generating Tools Safely**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Code-Generating Tools Safely, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Code-Generating Tools Safely environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Code-Generating Tools Safely**
+
+**Summary:** Hands-on core techniques of Code-Generating Tools Safely applied to small realistic Dynamic Tooling projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Code-Generating Tools Safely techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Code-Generating Tools Safely**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Code-Generating Tools Safely work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Code-Generating Tools Safely patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Code-Generating Tools Safely**
+
+**Summary:** How to verify Code-Generating Tools Safely work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Code-Generating Tools Safely work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Code-Generating Tools Safely**
+
+**Summary:** Using Code-Generating Tools Safely inside larger Dynamic Tooling workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Code-Generating Tools Safely outputs into a larger Dynamic Tooling workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Code-Generating Tools Safely**
+
+**Summary:** Advanced methods in Code-Generating Tools Safely for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Code-Generating Tools Safely methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Code-Generating Tools Safely**
+
+**Summary:** Making Code-Generating Tools Safely work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Code-Generating Tools Safely work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Code-Generating Tools Safely**
+
+**Summary:** Protecting Code-Generating Tools Safely work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Code-Generating Tools Safely work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Code-Generating Tools Safely**
+
+**Summary:** Making Code-Generating Tools Safely work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Code-Generating Tools Safely work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Code-Generating Tools Safely**
+
+**Summary:** Realistic Dynamic Tooling case studies using Code-Generating Tools Safely under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Code-Generating Tools Safely results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Code-Generating Tools Safely**
+
+**Summary:** Expert-level judgment in Code-Generating Tools Safely, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Code-Generating Tools Safely work with portfolio-ready proof.

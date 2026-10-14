@@ -1,0 +1,15 @@
+1. ReAct Thinking: Thought-Action-Observation - Builds interleaved reasoning intuition.
+2. Thought Design: Plans vs Reflections - Gives explicit-logic prompting skill.
+3. Action Spaces & Tool Contracts - Shows disciplined tool invocation.
+4. Observation Parsing & State Updates - Covers learning from tool results.
+5. Trajectory Control & Branching - Teaches steering multi-step reasoning.
+6. Hallucination Reduction via Grounding - Shows citing observations before claims.
+7. Self-Consistency & Verification Thoughts - Covers double-check reasoning moves.
+8. Error Thoughts & Recovery Actions - Shows reasoning through failures.
+9. Prompt Templates for ReAct Loops - Gives reusable Thought-Action scaffolds.
+10. Evaluation: Trajectory Scoring - Covers grading reasoning quality.
+11. Cost Control in Long Trajectories - Shows pruning verbose thoughts.
+12. Tool-Use Datasets & Fine-Tuning - Covers training better ReAct behavior.
+13. Multi-Tool Orchestration in ReAct - Shows sequencing diverse actions.
+14. Debugging: Reading Agent Thoughts - Teaches diagnosing visible logic.
+15. Delivery: Auditable Reasoning Logs - Enables trustworthy agent transcripts.

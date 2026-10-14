@@ -1,0 +1,15 @@
+1. Boundary Thinking: Chaos In, Order Out - Builds containment architecture intuition.
+2. Schemas & Strict Validation - Gives reject-or-repair output handling.
+3. Idempotent Handlers & State Machines - Shows crash-proof AI integration.
+4. Timeouts, Retries & Circuit Breakers - Covers flaky-model resilience.
+5. Canonicalization & Normalization - Shows taming varied AI phrasings.
+6. Human-Readable Fallbacks - Covers degrading without crashing.
+7. Transactional Writes & Sagas - Shows all-or-nothing AI effects.
+8. Deterministic Seeds & Replay - Covers reproducible AI pipelines.
+9. Contract Testing Against Models - Shows proving integration assumptions.
+10. Monitoring: Drift & Anomaly Alerts - Covers detecting model behavior shifts.
+11. Feature Flags & Model Pinning - Shows controlled model upgrades.
+12. Error Budgets for AI Steps - Covers quantified unreliability tolerance.
+13. Code Review for AI Boundaries - Shows auditing every model touchpoint.
+14. Chaos Testing Model Failures - Covers proving stability under weird outputs.
+15. Delivery: Stability Scorecards - Enables crash-free AI releases.

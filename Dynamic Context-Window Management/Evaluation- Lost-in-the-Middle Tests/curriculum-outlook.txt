@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Evaluation: Lost-in-the-Middle Tests within Dynamic Context-Window Management practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Evaluation: Lost-in-the-Middle Tests and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Evaluation: Lost-in-the-Middle Tests, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Evaluation: Lost-in-the-Middle Tests environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Hands-on core techniques of Evaluation: Lost-in-the-Middle Tests applied to small realistic Dynamic Context-Window Management projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Evaluation: Lost-in-the-Middle Tests techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Evaluation: Lost-in-the-Middle Tests work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Evaluation: Lost-in-the-Middle Tests patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** How to verify Evaluation: Lost-in-the-Middle Tests work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Evaluation: Lost-in-the-Middle Tests work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Using Evaluation: Lost-in-the-Middle Tests inside larger Dynamic Context-Window Management workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Evaluation: Lost-in-the-Middle Tests outputs into a larger Dynamic Context-Window Management workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Advanced methods in Evaluation: Lost-in-the-Middle Tests for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Evaluation: Lost-in-the-Middle Tests methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Making Evaluation: Lost-in-the-Middle Tests work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Evaluation: Lost-in-the-Middle Tests work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Protecting Evaluation: Lost-in-the-Middle Tests work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Evaluation: Lost-in-the-Middle Tests work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Making Evaluation: Lost-in-the-Middle Tests work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Evaluation: Lost-in-the-Middle Tests work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Realistic Dynamic Context-Window Management case studies using Evaluation: Lost-in-the-Middle Tests under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Evaluation: Lost-in-the-Middle Tests results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Evaluation: Lost-in-the-Middle Tests**
+
+**Summary:** Expert-level judgment in Evaluation: Lost-in-the-Middle Tests, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Evaluation: Lost-in-the-Middle Tests work with portfolio-ready proof.

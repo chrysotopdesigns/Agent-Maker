@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Client Integration & Agent Wiring**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Client Integration & Agent Wiring within Model Context Protocol (MCP) practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Client Integration & Agent Wiring and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Client Integration & Agent Wiring**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Client Integration & Agent Wiring, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Client Integration & Agent Wiring environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Client Integration & Agent Wiring**
+
+**Summary:** Hands-on core techniques of Client Integration & Agent Wiring applied to small realistic Model Context Protocol (MCP) projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Client Integration & Agent Wiring techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Client Integration & Agent Wiring**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Client Integration & Agent Wiring work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Client Integration & Agent Wiring patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Client Integration & Agent Wiring**
+
+**Summary:** How to verify Client Integration & Agent Wiring work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Client Integration & Agent Wiring work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Client Integration & Agent Wiring**
+
+**Summary:** Using Client Integration & Agent Wiring inside larger Model Context Protocol (MCP) workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Client Integration & Agent Wiring outputs into a larger Model Context Protocol (MCP) workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Client Integration & Agent Wiring**
+
+**Summary:** Advanced methods in Client Integration & Agent Wiring for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Client Integration & Agent Wiring methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Client Integration & Agent Wiring**
+
+**Summary:** Making Client Integration & Agent Wiring work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Client Integration & Agent Wiring work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Client Integration & Agent Wiring**
+
+**Summary:** Protecting Client Integration & Agent Wiring work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Client Integration & Agent Wiring work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Client Integration & Agent Wiring**
+
+**Summary:** Making Client Integration & Agent Wiring work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Client Integration & Agent Wiring work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Client Integration & Agent Wiring**
+
+**Summary:** Realistic Model Context Protocol (MCP) case studies using Client Integration & Agent Wiring under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Client Integration & Agent Wiring results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Client Integration & Agent Wiring**
+
+**Summary:** Expert-level judgment in Client Integration & Agent Wiring, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Client Integration & Agent Wiring work with portfolio-ready proof.

@@ -1,0 +1,15 @@
+1. Dependency Thinking: Graphs & Locks - Builds reproducible-install intuition.
+2. Modern Python Packaging: pyproject & uv - Gives instant flawless installs.
+3. Lockfiles & Pinned Transitives - Shows bit-identical environments.
+4. Virtualenvs & Tool Isolation - Covers conflict-free developer setups.
+5. Version Strategy: Ranges vs Pins - Shows balancing freshness and stability.
+6. Private Indexes & Mirrors - Covers reliable corporate installs.
+7. License & Vulnerability Audits - Shows compliant secure dependency sets.
+8. Monorepo & Workspace Layouts - Covers multi-agent code organization.
+9. CI Caching & Fast Resolves - Shows seconds-not-minutes pipelines.
+10. Docker Layering for Deps - Covers cached container installs.
+11. Upgrade Playbooks & Changelogs - Shows fearless dependency updates.
+12. Abandoned Package Triage - Covers forking, replacing, or vendoring.
+13. SBOMs & Supply-Chain Security - Shows signed traceable dependencies.
+14. Teaching uv Workflows - Covers onboarding teams to modern tools.
+15. Delivery: Install Health Dashboards - Enables always-green setups.

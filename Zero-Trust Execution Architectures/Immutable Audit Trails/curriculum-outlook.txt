@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Immutable Audit Trails**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Immutable Audit Trails within Zero-Trust Execution Architectures practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Immutable Audit Trails and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Immutable Audit Trails**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Immutable Audit Trails, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Immutable Audit Trails environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Immutable Audit Trails**
+
+**Summary:** Hands-on core techniques of Immutable Audit Trails applied to small realistic Zero-Trust Execution Architectures projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Immutable Audit Trails techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Immutable Audit Trails**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Immutable Audit Trails work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Immutable Audit Trails patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Immutable Audit Trails**
+
+**Summary:** How to verify Immutable Audit Trails work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Immutable Audit Trails work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Immutable Audit Trails**
+
+**Summary:** Using Immutable Audit Trails inside larger Zero-Trust Execution Architectures workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Immutable Audit Trails outputs into a larger Zero-Trust Execution Architectures workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Immutable Audit Trails**
+
+**Summary:** Advanced methods in Immutable Audit Trails for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Immutable Audit Trails methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Immutable Audit Trails**
+
+**Summary:** Making Immutable Audit Trails work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Immutable Audit Trails work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Immutable Audit Trails**
+
+**Summary:** Protecting Immutable Audit Trails work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Immutable Audit Trails work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Immutable Audit Trails**
+
+**Summary:** Making Immutable Audit Trails work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Immutable Audit Trails work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Immutable Audit Trails**
+
+**Summary:** Realistic Zero-Trust Execution Architectures case studies using Immutable Audit Trails under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Immutable Audit Trails results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Immutable Audit Trails**
+
+**Summary:** Expert-level judgment in Immutable Audit Trails, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Immutable Audit Trails work with portfolio-ready proof.

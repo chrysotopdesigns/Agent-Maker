@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Delivery: Stability Scorecards**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Delivery: Stability Scorecards within Deterministic Software Engineering for Non-Deterministic AI practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Delivery: Stability Scorecards and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Delivery: Stability Scorecards**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Delivery: Stability Scorecards, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Delivery: Stability Scorecards environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Delivery: Stability Scorecards**
+
+**Summary:** Hands-on core techniques of Delivery: Stability Scorecards applied to small realistic Deterministic Software Engineering for Non-Deterministic AI projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Delivery: Stability Scorecards techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Delivery: Stability Scorecards**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Delivery: Stability Scorecards work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Delivery: Stability Scorecards patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Delivery: Stability Scorecards**
+
+**Summary:** How to verify Delivery: Stability Scorecards work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Delivery: Stability Scorecards work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Delivery: Stability Scorecards**
+
+**Summary:** Using Delivery: Stability Scorecards inside larger Deterministic Software Engineering for Non-Deterministic AI workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Delivery: Stability Scorecards outputs into a larger Deterministic Software Engineering for Non-Deterministic AI workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Delivery: Stability Scorecards**
+
+**Summary:** Advanced methods in Delivery: Stability Scorecards for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Delivery: Stability Scorecards methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Delivery: Stability Scorecards**
+
+**Summary:** Making Delivery: Stability Scorecards work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Delivery: Stability Scorecards work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Delivery: Stability Scorecards**
+
+**Summary:** Protecting Delivery: Stability Scorecards work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Delivery: Stability Scorecards work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Delivery: Stability Scorecards**
+
+**Summary:** Making Delivery: Stability Scorecards work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Delivery: Stability Scorecards work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Delivery: Stability Scorecards**
+
+**Summary:** Realistic Deterministic Software Engineering for Non-Deterministic AI case studies using Delivery: Stability Scorecards under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Delivery: Stability Scorecards results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Delivery: Stability Scorecards**
+
+**Summary:** Expert-level judgment in Delivery: Stability Scorecards, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Delivery: Stability Scorecards work with portfolio-ready proof.

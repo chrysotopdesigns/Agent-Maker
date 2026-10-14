@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Token Quotas & Circuit Breakers**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Token Quotas & Circuit Breakers within Algorithmic Cost Control practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Token Quotas & Circuit Breakers and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Token Quotas & Circuit Breakers**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Token Quotas & Circuit Breakers, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Token Quotas & Circuit Breakers environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Token Quotas & Circuit Breakers**
+
+**Summary:** Hands-on core techniques of Token Quotas & Circuit Breakers applied to small realistic Algorithmic Cost Control projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Token Quotas & Circuit Breakers techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Token Quotas & Circuit Breakers**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Token Quotas & Circuit Breakers work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Token Quotas & Circuit Breakers patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Token Quotas & Circuit Breakers**
+
+**Summary:** How to verify Token Quotas & Circuit Breakers work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Token Quotas & Circuit Breakers work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Token Quotas & Circuit Breakers**
+
+**Summary:** Using Token Quotas & Circuit Breakers inside larger Algorithmic Cost Control workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Token Quotas & Circuit Breakers outputs into a larger Algorithmic Cost Control workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Token Quotas & Circuit Breakers**
+
+**Summary:** Advanced methods in Token Quotas & Circuit Breakers for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Token Quotas & Circuit Breakers methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Token Quotas & Circuit Breakers**
+
+**Summary:** Making Token Quotas & Circuit Breakers work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Token Quotas & Circuit Breakers work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Token Quotas & Circuit Breakers**
+
+**Summary:** Protecting Token Quotas & Circuit Breakers work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Token Quotas & Circuit Breakers work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Token Quotas & Circuit Breakers**
+
+**Summary:** Making Token Quotas & Circuit Breakers work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Token Quotas & Circuit Breakers work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Token Quotas & Circuit Breakers**
+
+**Summary:** Realistic Algorithmic Cost Control case studies using Token Quotas & Circuit Breakers under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Token Quotas & Circuit Breakers results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Token Quotas & Circuit Breakers**
+
+**Summary:** Expert-level judgment in Token Quotas & Circuit Breakers, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Token Quotas & Circuit Breakers work with portfolio-ready proof.

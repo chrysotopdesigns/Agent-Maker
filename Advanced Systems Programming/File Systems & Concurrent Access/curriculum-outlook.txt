@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in File Systems & Concurrent Access**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of File Systems & Concurrent Access within Advanced Systems Programming practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of File Systems & Concurrent Access and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for File Systems & Concurrent Access**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for File Systems & Concurrent Access, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working File Systems & Concurrent Access environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in File Systems & Concurrent Access**
+
+**Summary:** Hands-on core techniques of File Systems & Concurrent Access applied to small realistic Advanced Systems Programming projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core File Systems & Concurrent Access techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in File Systems & Concurrent Access**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile File Systems & Concurrent Access work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate File Systems & Concurrent Access patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in File Systems & Concurrent Access**
+
+**Summary:** How to verify File Systems & Concurrent Access work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in File Systems & Concurrent Access work and add checks that prevent regressions.
+
+**Integration and Real-World Application of File Systems & Concurrent Access**
+
+**Summary:** Using File Systems & Concurrent Access inside larger Advanced Systems Programming workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate File Systems & Concurrent Access outputs into a larger Advanced Systems Programming workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in File Systems & Concurrent Access**
+
+**Summary:** Advanced methods in File Systems & Concurrent Access for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced File Systems & Concurrent Access methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in File Systems & Concurrent Access**
+
+**Summary:** Making File Systems & Concurrent Access work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize File Systems & Concurrent Access work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in File Systems & Concurrent Access**
+
+**Summary:** Protecting File Systems & Concurrent Access work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden File Systems & Concurrent Access work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in File Systems & Concurrent Access**
+
+**Summary:** Making File Systems & Concurrent Access work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off File Systems & Concurrent Access work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in File Systems & Concurrent Access**
+
+**Summary:** Realistic Advanced Systems Programming case studies using File Systems & Concurrent Access under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver File Systems & Concurrent Access results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in File Systems & Concurrent Access**
+
+**Summary:** Expert-level judgment in File Systems & Concurrent Access, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level File Systems & Concurrent Access work with portfolio-ready proof.

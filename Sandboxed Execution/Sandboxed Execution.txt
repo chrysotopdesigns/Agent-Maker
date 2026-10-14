@@ -1,0 +1,15 @@
+1. Isolation Thinking: Blast Radius First - Builds assume-breach design.
+2. Filesystem Sandboxes & Jails - Gives contained file access.
+3. Network Egress Controls - Shows allowlisted connectivity only.
+4. Resource Quotas: CPU, RAM & Disk - Covers starvation-proof limits.
+5. Ephemeral Workspaces - Shows throwaway execution environments.
+6. Audit Logging & Forensics - Covers reconstructing agent actions.
+7. Secrets Isolation & Injection - Shows credentials agents cannot exfiltrate.
+8. Time-Boxed Execution - Covers bounded run durations.
+9. Snapshot & Restore - Shows instant clean-state recovery.
+10. Breakout Testing & Hardening - Covers proving containment holds.
+11. Multi-Tenant Isolation - Shows user-segregated sandboxes.
+12. Tooling: Sandboxes, Firecrackers & gVisor - Gives runtime stack fluency.
+13. UX: Safe File Exchange - Covers moving results in and out.
+14. Incident Response for Escapes - Shows containing sandbox failures.
+15. Delivery: Sandbox Certifications - Enables audited isolation guarantees.

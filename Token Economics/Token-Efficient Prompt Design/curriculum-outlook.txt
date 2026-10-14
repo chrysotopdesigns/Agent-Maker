@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Token-Efficient Prompt Design**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Token-Efficient Prompt Design within Token Economics practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Token-Efficient Prompt Design and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Token-Efficient Prompt Design**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Token-Efficient Prompt Design, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Token-Efficient Prompt Design environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Token-Efficient Prompt Design**
+
+**Summary:** Hands-on core techniques of Token-Efficient Prompt Design applied to small realistic Token Economics projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Token-Efficient Prompt Design techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Token-Efficient Prompt Design**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Token-Efficient Prompt Design work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Token-Efficient Prompt Design patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Token-Efficient Prompt Design**
+
+**Summary:** How to verify Token-Efficient Prompt Design work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Token-Efficient Prompt Design work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Token-Efficient Prompt Design**
+
+**Summary:** Using Token-Efficient Prompt Design inside larger Token Economics workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Token-Efficient Prompt Design outputs into a larger Token Economics workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Token-Efficient Prompt Design**
+
+**Summary:** Advanced methods in Token-Efficient Prompt Design for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Token-Efficient Prompt Design methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Token-Efficient Prompt Design**
+
+**Summary:** Making Token-Efficient Prompt Design work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Token-Efficient Prompt Design work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Token-Efficient Prompt Design**
+
+**Summary:** Protecting Token-Efficient Prompt Design work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Token-Efficient Prompt Design work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Token-Efficient Prompt Design**
+
+**Summary:** Making Token-Efficient Prompt Design work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Token-Efficient Prompt Design work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Token-Efficient Prompt Design**
+
+**Summary:** Realistic Token Economics case studies using Token-Efficient Prompt Design under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Token-Efficient Prompt Design results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Token-Efficient Prompt Design**
+
+**Summary:** Expert-level judgment in Token-Efficient Prompt Design, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Token-Efficient Prompt Design work with portfolio-ready proof.

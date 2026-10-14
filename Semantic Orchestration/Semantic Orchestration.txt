@@ -1,0 +1,15 @@
+1. Orchestration Thinking & Workflow Graphs - Builds multi-step coherence intuition.
+2. Model Routing & Capability Matching - Gives right-model-for-subtask selection.
+3. Data Contracts Between Steps - Shows schemas that survive handoffs.
+4. State Tracking Across Long Workflows - Teaches never-lose-the-goal supervision.
+5. Parallel Branches & Joins - Covers fan-out, gather, and merge patterns.
+6. Format Mediation: JSON, Text & Files - Shows translating between model outputs.
+7. Error Propagation & Compensation - Covers undoing partial workflow damage.
+8. Human-in-the-Loop Gates - Shows approval points for risky steps.
+9. Observability: Traces & Timelines - Teaches debugging lost-track agents.
+10. Frameworks: Graphs, DAGs & Queues - Gives orchestration stack fluency.
+11. Idempotency & Safe Retries - Covers re-runnable workflow steps.
+12. Cost-Aware Scheduling - Shows cheap-models-first routing.
+13. Versioning Workflows & Prompts - Covers evolving orchestrations safely.
+14. Testing: Mocks & Scenario Suites - Shows proving workflows before live.
+15. Delivery: Runbooks & Handoff Docs - Enables team-owned orchestrations.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Deterministic Seeds & Replay**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Deterministic Seeds & Replay within Deterministic Software Engineering for Non-Deterministic AI practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Deterministic Seeds & Replay and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Deterministic Seeds & Replay**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Deterministic Seeds & Replay, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Deterministic Seeds & Replay environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Deterministic Seeds & Replay**
+
+**Summary:** Hands-on core techniques of Deterministic Seeds & Replay applied to small realistic Deterministic Software Engineering for Non-Deterministic AI projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Deterministic Seeds & Replay techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Deterministic Seeds & Replay**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Deterministic Seeds & Replay work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Deterministic Seeds & Replay patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Deterministic Seeds & Replay**
+
+**Summary:** How to verify Deterministic Seeds & Replay work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Deterministic Seeds & Replay work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Deterministic Seeds & Replay**
+
+**Summary:** Using Deterministic Seeds & Replay inside larger Deterministic Software Engineering for Non-Deterministic AI workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Deterministic Seeds & Replay outputs into a larger Deterministic Software Engineering for Non-Deterministic AI workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Deterministic Seeds & Replay**
+
+**Summary:** Advanced methods in Deterministic Seeds & Replay for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Deterministic Seeds & Replay methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Deterministic Seeds & Replay**
+
+**Summary:** Making Deterministic Seeds & Replay work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Deterministic Seeds & Replay work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Deterministic Seeds & Replay**
+
+**Summary:** Protecting Deterministic Seeds & Replay work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Deterministic Seeds & Replay work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Deterministic Seeds & Replay**
+
+**Summary:** Making Deterministic Seeds & Replay work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Deterministic Seeds & Replay work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Deterministic Seeds & Replay**
+
+**Summary:** Realistic Deterministic Software Engineering for Non-Deterministic AI case studies using Deterministic Seeds & Replay under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Deterministic Seeds & Replay results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Deterministic Seeds & Replay**
+
+**Summary:** Expert-level judgment in Deterministic Seeds & Replay, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Deterministic Seeds & Replay work with portfolio-ready proof.

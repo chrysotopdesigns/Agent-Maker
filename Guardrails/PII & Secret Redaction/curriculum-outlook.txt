@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in PII & Secret Redaction**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of PII & Secret Redaction within Guardrails practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of PII & Secret Redaction and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for PII & Secret Redaction**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for PII & Secret Redaction, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working PII & Secret Redaction environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in PII & Secret Redaction**
+
+**Summary:** Hands-on core techniques of PII & Secret Redaction applied to small realistic Guardrails projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core PII & Secret Redaction techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in PII & Secret Redaction**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile PII & Secret Redaction work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate PII & Secret Redaction patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in PII & Secret Redaction**
+
+**Summary:** How to verify PII & Secret Redaction work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in PII & Secret Redaction work and add checks that prevent regressions.
+
+**Integration and Real-World Application of PII & Secret Redaction**
+
+**Summary:** Using PII & Secret Redaction inside larger Guardrails workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate PII & Secret Redaction outputs into a larger Guardrails workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in PII & Secret Redaction**
+
+**Summary:** Advanced methods in PII & Secret Redaction for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced PII & Secret Redaction methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in PII & Secret Redaction**
+
+**Summary:** Making PII & Secret Redaction work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize PII & Secret Redaction work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in PII & Secret Redaction**
+
+**Summary:** Protecting PII & Secret Redaction work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden PII & Secret Redaction work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in PII & Secret Redaction**
+
+**Summary:** Making PII & Secret Redaction work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off PII & Secret Redaction work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in PII & Secret Redaction**
+
+**Summary:** Realistic Guardrails case studies using PII & Secret Redaction under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver PII & Secret Redaction results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in PII & Secret Redaction**
+
+**Summary:** Expert-level judgment in PII & Secret Redaction, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level PII & Secret Redaction work with portfolio-ready proof.

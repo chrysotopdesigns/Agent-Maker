@@ -1,0 +1,15 @@
+1. Failure Thinking: Taxonomies First - Builds classified-error intuition.
+2. Custom Exception Hierarchies - Gives precise catch-and-handle design.
+3. Retry Policies: Backoff & Jitter - Shows self-healing API resilience.
+4. Distinguishing Retryable vs Fatal - Covers knowing when to stop.
+5. Timeouts & Deadlines Propagation - Shows bounded waiting everywhere.
+6. Fallback Chains & Degradation - Covers graceful capability loss.
+7. Structured Error Context - Shows debuggable error payloads.
+8. AI-Specific Failures: Truncation & Refusals - Covers model-quirk handling.
+9. Validation Errors & Repair Loops - Shows fix-and-retry schemas.
+10. Alerting: Noise vs Signal - Covers paging only on real harm.
+11. Error Budgets & SLOs - Shows quantified reliability targets.
+12. Testing: Fault Injection - Covers proving handlers work.
+13. Postmortems & Error Reviews - Shows learning from every failure.
+14. User-Facing Error UX - Covers honest non-technical messages.
+15. Delivery: Reliability Reports - Enables self-healing credibility.

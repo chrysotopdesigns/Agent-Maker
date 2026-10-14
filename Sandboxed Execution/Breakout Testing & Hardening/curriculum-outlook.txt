@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Breakout Testing & Hardening**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Breakout Testing & Hardening within Sandboxed Execution practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Breakout Testing & Hardening and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Breakout Testing & Hardening**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Breakout Testing & Hardening, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Breakout Testing & Hardening environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Breakout Testing & Hardening**
+
+**Summary:** Hands-on core techniques of Breakout Testing & Hardening applied to small realistic Sandboxed Execution projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Breakout Testing & Hardening techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Breakout Testing & Hardening**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Breakout Testing & Hardening work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Breakout Testing & Hardening patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Breakout Testing & Hardening**
+
+**Summary:** How to verify Breakout Testing & Hardening work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Breakout Testing & Hardening work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Breakout Testing & Hardening**
+
+**Summary:** Using Breakout Testing & Hardening inside larger Sandboxed Execution workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Breakout Testing & Hardening outputs into a larger Sandboxed Execution workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Breakout Testing & Hardening**
+
+**Summary:** Advanced methods in Breakout Testing & Hardening for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Breakout Testing & Hardening methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Breakout Testing & Hardening**
+
+**Summary:** Making Breakout Testing & Hardening work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Breakout Testing & Hardening work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Breakout Testing & Hardening**
+
+**Summary:** Protecting Breakout Testing & Hardening work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Breakout Testing & Hardening work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Breakout Testing & Hardening**
+
+**Summary:** Making Breakout Testing & Hardening work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Breakout Testing & Hardening work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Breakout Testing & Hardening**
+
+**Summary:** Realistic Sandboxed Execution case studies using Breakout Testing & Hardening under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Breakout Testing & Hardening results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Breakout Testing & Hardening**
+
+**Summary:** Expert-level judgment in Breakout Testing & Hardening, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Breakout Testing & Hardening work with portfolio-ready proof.

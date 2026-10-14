@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Persistence & Crash Recovery**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Persistence & Crash Recovery within State Machines practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Persistence & Crash Recovery and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Persistence & Crash Recovery**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Persistence & Crash Recovery, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Persistence & Crash Recovery environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Persistence & Crash Recovery**
+
+**Summary:** Hands-on core techniques of Persistence & Crash Recovery applied to small realistic State Machines projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Persistence & Crash Recovery techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Persistence & Crash Recovery**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Persistence & Crash Recovery work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Persistence & Crash Recovery patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Persistence & Crash Recovery**
+
+**Summary:** How to verify Persistence & Crash Recovery work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Persistence & Crash Recovery work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Persistence & Crash Recovery**
+
+**Summary:** Using Persistence & Crash Recovery inside larger State Machines workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Persistence & Crash Recovery outputs into a larger State Machines workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Persistence & Crash Recovery**
+
+**Summary:** Advanced methods in Persistence & Crash Recovery for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Persistence & Crash Recovery methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Persistence & Crash Recovery**
+
+**Summary:** Making Persistence & Crash Recovery work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Persistence & Crash Recovery work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Persistence & Crash Recovery**
+
+**Summary:** Protecting Persistence & Crash Recovery work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Persistence & Crash Recovery work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Persistence & Crash Recovery**
+
+**Summary:** Making Persistence & Crash Recovery work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Persistence & Crash Recovery work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Persistence & Crash Recovery**
+
+**Summary:** Realistic State Machines case studies using Persistence & Crash Recovery under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Persistence & Crash Recovery results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Persistence & Crash Recovery**
+
+**Summary:** Expert-level judgment in Persistence & Crash Recovery, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Persistence & Crash Recovery work with portfolio-ready proof.

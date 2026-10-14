@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in User Education & Warnings**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of User Education & Warnings within Prompt Injection Defense practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of User Education & Warnings and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for User Education & Warnings**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for User Education & Warnings, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working User Education & Warnings environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in User Education & Warnings**
+
+**Summary:** Hands-on core techniques of User Education & Warnings applied to small realistic Prompt Injection Defense projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core User Education & Warnings techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in User Education & Warnings**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile User Education & Warnings work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate User Education & Warnings patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in User Education & Warnings**
+
+**Summary:** How to verify User Education & Warnings work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in User Education & Warnings work and add checks that prevent regressions.
+
+**Integration and Real-World Application of User Education & Warnings**
+
+**Summary:** Using User Education & Warnings inside larger Prompt Injection Defense workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate User Education & Warnings outputs into a larger Prompt Injection Defense workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in User Education & Warnings**
+
+**Summary:** Advanced methods in User Education & Warnings for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced User Education & Warnings methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in User Education & Warnings**
+
+**Summary:** Making User Education & Warnings work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize User Education & Warnings work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in User Education & Warnings**
+
+**Summary:** Protecting User Education & Warnings work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden User Education & Warnings work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in User Education & Warnings**
+
+**Summary:** Making User Education & Warnings work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off User Education & Warnings work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in User Education & Warnings**
+
+**Summary:** Realistic Prompt Injection Defense case studies using User Education & Warnings under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver User Education & Warnings results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in User Education & Warnings**
+
+**Summary:** Expert-level judgment in User Education & Warnings, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level User Education & Warnings work with portfolio-ready proof.

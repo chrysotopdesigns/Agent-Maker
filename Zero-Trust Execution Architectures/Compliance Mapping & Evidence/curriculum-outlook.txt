@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Compliance Mapping & Evidence**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Compliance Mapping & Evidence within Zero-Trust Execution Architectures practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Compliance Mapping & Evidence and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Compliance Mapping & Evidence**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Compliance Mapping & Evidence, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Compliance Mapping & Evidence environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Compliance Mapping & Evidence**
+
+**Summary:** Hands-on core techniques of Compliance Mapping & Evidence applied to small realistic Zero-Trust Execution Architectures projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Compliance Mapping & Evidence techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Compliance Mapping & Evidence**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Compliance Mapping & Evidence work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Compliance Mapping & Evidence patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Compliance Mapping & Evidence**
+
+**Summary:** How to verify Compliance Mapping & Evidence work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Compliance Mapping & Evidence work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Compliance Mapping & Evidence**
+
+**Summary:** Using Compliance Mapping & Evidence inside larger Zero-Trust Execution Architectures workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Compliance Mapping & Evidence outputs into a larger Zero-Trust Execution Architectures workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Compliance Mapping & Evidence**
+
+**Summary:** Advanced methods in Compliance Mapping & Evidence for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Compliance Mapping & Evidence methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Compliance Mapping & Evidence**
+
+**Summary:** Making Compliance Mapping & Evidence work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Compliance Mapping & Evidence work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Compliance Mapping & Evidence**
+
+**Summary:** Protecting Compliance Mapping & Evidence work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Compliance Mapping & Evidence work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Compliance Mapping & Evidence**
+
+**Summary:** Making Compliance Mapping & Evidence work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Compliance Mapping & Evidence work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Compliance Mapping & Evidence**
+
+**Summary:** Realistic Zero-Trust Execution Architectures case studies using Compliance Mapping & Evidence under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Compliance Mapping & Evidence results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Compliance Mapping & Evidence**
+
+**Summary:** Expert-level judgment in Compliance Mapping & Evidence, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Compliance Mapping & Evidence work with portfolio-ready proof.

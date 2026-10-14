@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Measuring Focus Gains**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Measuring Focus Gains within Context-Pruning Strategies practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Measuring Focus Gains and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Measuring Focus Gains**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Measuring Focus Gains, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Measuring Focus Gains environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Measuring Focus Gains**
+
+**Summary:** Hands-on core techniques of Measuring Focus Gains applied to small realistic Context-Pruning Strategies projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Measuring Focus Gains techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Measuring Focus Gains**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Measuring Focus Gains work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Measuring Focus Gains patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Measuring Focus Gains**
+
+**Summary:** How to verify Measuring Focus Gains work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Measuring Focus Gains work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Measuring Focus Gains**
+
+**Summary:** Using Measuring Focus Gains inside larger Context-Pruning Strategies workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Measuring Focus Gains outputs into a larger Context-Pruning Strategies workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Measuring Focus Gains**
+
+**Summary:** Advanced methods in Measuring Focus Gains for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Measuring Focus Gains methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Measuring Focus Gains**
+
+**Summary:** Making Measuring Focus Gains work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Measuring Focus Gains work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Measuring Focus Gains**
+
+**Summary:** Protecting Measuring Focus Gains work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Measuring Focus Gains work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Measuring Focus Gains**
+
+**Summary:** Making Measuring Focus Gains work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Measuring Focus Gains work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Measuring Focus Gains**
+
+**Summary:** Realistic Context-Pruning Strategies case studies using Measuring Focus Gains under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Measuring Focus Gains results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Measuring Focus Gains**
+
+**Summary:** Expert-level judgment in Measuring Focus Gains, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Measuring Focus Gains work with portfolio-ready proof.

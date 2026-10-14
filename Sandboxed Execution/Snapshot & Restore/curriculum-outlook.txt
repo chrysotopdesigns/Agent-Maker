@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Snapshot & Restore**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Snapshot & Restore within Sandboxed Execution practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Snapshot & Restore and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Snapshot & Restore**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Snapshot & Restore, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Snapshot & Restore environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Snapshot & Restore**
+
+**Summary:** Hands-on core techniques of Snapshot & Restore applied to small realistic Sandboxed Execution projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Snapshot & Restore techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Snapshot & Restore**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Snapshot & Restore work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Snapshot & Restore patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Snapshot & Restore**
+
+**Summary:** How to verify Snapshot & Restore work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Snapshot & Restore work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Snapshot & Restore**
+
+**Summary:** Using Snapshot & Restore inside larger Sandboxed Execution workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Snapshot & Restore outputs into a larger Sandboxed Execution workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Snapshot & Restore**
+
+**Summary:** Advanced methods in Snapshot & Restore for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Snapshot & Restore methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Snapshot & Restore**
+
+**Summary:** Making Snapshot & Restore work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Snapshot & Restore work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Snapshot & Restore**
+
+**Summary:** Protecting Snapshot & Restore work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Snapshot & Restore work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Snapshot & Restore**
+
+**Summary:** Making Snapshot & Restore work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Snapshot & Restore work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Snapshot & Restore**
+
+**Summary:** Realistic Sandboxed Execution case studies using Snapshot & Restore under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Snapshot & Restore results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Snapshot & Restore**
+
+**Summary:** Expert-level judgment in Snapshot & Restore, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Snapshot & Restore work with portfolio-ready proof.

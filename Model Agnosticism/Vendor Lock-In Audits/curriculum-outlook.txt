@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Vendor Lock-In Audits**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Vendor Lock-In Audits within Model Agnosticism practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Vendor Lock-In Audits and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Vendor Lock-In Audits**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Vendor Lock-In Audits, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Vendor Lock-In Audits environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Vendor Lock-In Audits**
+
+**Summary:** Hands-on core techniques of Vendor Lock-In Audits applied to small realistic Model Agnosticism projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Vendor Lock-In Audits techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Vendor Lock-In Audits**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Vendor Lock-In Audits work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Vendor Lock-In Audits patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Vendor Lock-In Audits**
+
+**Summary:** How to verify Vendor Lock-In Audits work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Vendor Lock-In Audits work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Vendor Lock-In Audits**
+
+**Summary:** Using Vendor Lock-In Audits inside larger Model Agnosticism workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Vendor Lock-In Audits outputs into a larger Model Agnosticism workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Vendor Lock-In Audits**
+
+**Summary:** Advanced methods in Vendor Lock-In Audits for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Vendor Lock-In Audits methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Vendor Lock-In Audits**
+
+**Summary:** Making Vendor Lock-In Audits work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Vendor Lock-In Audits work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Vendor Lock-In Audits**
+
+**Summary:** Protecting Vendor Lock-In Audits work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Vendor Lock-In Audits work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Vendor Lock-In Audits**
+
+**Summary:** Making Vendor Lock-In Audits work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Vendor Lock-In Audits work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Vendor Lock-In Audits**
+
+**Summary:** Realistic Model Agnosticism case studies using Vendor Lock-In Audits under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Vendor Lock-In Audits results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Vendor Lock-In Audits**
+
+**Summary:** Expert-level judgment in Vendor Lock-In Audits, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Vendor Lock-In Audits work with portfolio-ready proof.

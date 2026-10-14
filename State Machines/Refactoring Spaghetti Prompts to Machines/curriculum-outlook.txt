@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Refactoring Spaghetti Prompts to Machines within State Machines practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Refactoring Spaghetti Prompts to Machines and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Refactoring Spaghetti Prompts to Machines, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Refactoring Spaghetti Prompts to Machines environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Hands-on core techniques of Refactoring Spaghetti Prompts to Machines applied to small realistic State Machines projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Refactoring Spaghetti Prompts to Machines techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Refactoring Spaghetti Prompts to Machines work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Refactoring Spaghetti Prompts to Machines patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** How to verify Refactoring Spaghetti Prompts to Machines work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Refactoring Spaghetti Prompts to Machines work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Using Refactoring Spaghetti Prompts to Machines inside larger State Machines workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Refactoring Spaghetti Prompts to Machines outputs into a larger State Machines workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Advanced methods in Refactoring Spaghetti Prompts to Machines for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Refactoring Spaghetti Prompts to Machines methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Making Refactoring Spaghetti Prompts to Machines work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Refactoring Spaghetti Prompts to Machines work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Protecting Refactoring Spaghetti Prompts to Machines work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Refactoring Spaghetti Prompts to Machines work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Making Refactoring Spaghetti Prompts to Machines work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Refactoring Spaghetti Prompts to Machines work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Realistic State Machines case studies using Refactoring Spaghetti Prompts to Machines under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Refactoring Spaghetti Prompts to Machines results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Refactoring Spaghetti Prompts to Machines**
+
+**Summary:** Expert-level judgment in Refactoring Spaghetti Prompts to Machines, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Refactoring Spaghetti Prompts to Machines work with portfolio-ready proof.

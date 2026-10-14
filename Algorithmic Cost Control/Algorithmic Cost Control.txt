@@ -1,0 +1,15 @@
+1. Budget Thinking: Envelopes per Task - Builds spend-capped execution.
+2. Token Quotas & Circuit Breakers - Gives hard-stop overspend protection.
+3. Model Cascades: Cheap First - Shows escalating only when needed.
+4. Early-Exit & Confidence Gates - Covers stopping when good enough.
+5. Request Batching & Deduplication - Shows fewer calls, same results.
+6. Semantic Caching Layers - Covers never-paying-twice for answers.
+7. Adaptive Sampling & Truncation - Shows dynamic quality-cost trade-offs.
+8. Background vs Interactive Tiers - Covers priority-based budgets.
+9. Real-Time Spend Tracking - Shows live burn-rate control.
+10. Auto-Scaling Budgets by Value - Covers spending where it pays.
+11. Load Shedding & Queuing - Shows surviving demand spikes cheaply.
+12. A/B Cost Experiments - Covers proving savings without quality loss.
+13. Anomaly Detection on Spend - Shows catching runaway agents fast.
+14. Tenant Limits & Fairness - Covers multi-user cost isolation.
+15. Delivery: Pennies-per-Task Reports - Enables radical cost transparency.

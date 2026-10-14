@@ -1,0 +1,15 @@
+1. Tool Thinking: Capabilities as Code - Builds runtime-extensible design.
+2. Tool Selection & Ranking - Gives best-tool-for-subtask decisions.
+3. Tool Schemas & Self-Description - Shows machine-choosable interfaces.
+4. Code-Generating Tools Safely - Covers agents writing their own functions.
+5. Testing Generated Tools - Shows proving fresh code before use.
+6. Tool Versioning & Rollback - Covers evolving toolsets reliably.
+7. Capability Registries - Shows discoverable dynamic inventories.
+8. Sandboxed Tool Trials - Covers contained experimentation.
+9. Caching & Reusing Generated Tools - Shows compounding agent abilities.
+10. Permission Escalation Controls - Covers preventing tool-abuse creep.
+11. Observability: Tool Lineage - Teaches tracing what built what.
+12. Cost of Tool Exploration - Shows bounding trial-and-error spend.
+13. Human Approval for New Tools - Covers supervised capability growth.
+14. Failure Modes: Tool Hallucination - Shows detecting phantom capabilities.
+15. Delivery: Tool Libraries & Sharing - Enables portable agent powers.

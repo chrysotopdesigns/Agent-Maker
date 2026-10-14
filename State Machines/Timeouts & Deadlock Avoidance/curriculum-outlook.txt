@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Timeouts & Deadlock Avoidance**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Timeouts & Deadlock Avoidance within State Machines practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Timeouts & Deadlock Avoidance and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Timeouts & Deadlock Avoidance**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Timeouts & Deadlock Avoidance, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Timeouts & Deadlock Avoidance environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Timeouts & Deadlock Avoidance**
+
+**Summary:** Hands-on core techniques of Timeouts & Deadlock Avoidance applied to small realistic State Machines projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Timeouts & Deadlock Avoidance techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Timeouts & Deadlock Avoidance**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Timeouts & Deadlock Avoidance work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Timeouts & Deadlock Avoidance patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Timeouts & Deadlock Avoidance**
+
+**Summary:** How to verify Timeouts & Deadlock Avoidance work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Timeouts & Deadlock Avoidance work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Timeouts & Deadlock Avoidance**
+
+**Summary:** Using Timeouts & Deadlock Avoidance inside larger State Machines workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Timeouts & Deadlock Avoidance outputs into a larger State Machines workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Timeouts & Deadlock Avoidance**
+
+**Summary:** Advanced methods in Timeouts & Deadlock Avoidance for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Timeouts & Deadlock Avoidance methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Timeouts & Deadlock Avoidance**
+
+**Summary:** Making Timeouts & Deadlock Avoidance work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Timeouts & Deadlock Avoidance work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Timeouts & Deadlock Avoidance**
+
+**Summary:** Protecting Timeouts & Deadlock Avoidance work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Timeouts & Deadlock Avoidance work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Timeouts & Deadlock Avoidance**
+
+**Summary:** Making Timeouts & Deadlock Avoidance work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Timeouts & Deadlock Avoidance work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Timeouts & Deadlock Avoidance**
+
+**Summary:** Realistic State Machines case studies using Timeouts & Deadlock Avoidance under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Timeouts & Deadlock Avoidance results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Timeouts & Deadlock Avoidance**
+
+**Summary:** Expert-level judgment in Timeouts & Deadlock Avoidance, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Timeouts & Deadlock Avoidance work with portfolio-ready proof.

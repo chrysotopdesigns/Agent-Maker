@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Confidence Thresholds & Abstention**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Confidence Thresholds & Abstention within Guardrails practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Confidence Thresholds & Abstention and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Confidence Thresholds & Abstention**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Confidence Thresholds & Abstention, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Confidence Thresholds & Abstention environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Confidence Thresholds & Abstention**
+
+**Summary:** Hands-on core techniques of Confidence Thresholds & Abstention applied to small realistic Guardrails projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Confidence Thresholds & Abstention techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Confidence Thresholds & Abstention**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Confidence Thresholds & Abstention work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Confidence Thresholds & Abstention patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Confidence Thresholds & Abstention**
+
+**Summary:** How to verify Confidence Thresholds & Abstention work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Confidence Thresholds & Abstention work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Confidence Thresholds & Abstention**
+
+**Summary:** Using Confidence Thresholds & Abstention inside larger Guardrails workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Confidence Thresholds & Abstention outputs into a larger Guardrails workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Confidence Thresholds & Abstention**
+
+**Summary:** Advanced methods in Confidence Thresholds & Abstention for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Confidence Thresholds & Abstention methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Confidence Thresholds & Abstention**
+
+**Summary:** Making Confidence Thresholds & Abstention work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Confidence Thresholds & Abstention work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Confidence Thresholds & Abstention**
+
+**Summary:** Protecting Confidence Thresholds & Abstention work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Confidence Thresholds & Abstention work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Confidence Thresholds & Abstention**
+
+**Summary:** Making Confidence Thresholds & Abstention work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Confidence Thresholds & Abstention work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Confidence Thresholds & Abstention**
+
+**Summary:** Realistic Guardrails case studies using Confidence Thresholds & Abstention under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Confidence Thresholds & Abstention results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Confidence Thresholds & Abstention**
+
+**Summary:** Expert-level judgment in Confidence Thresholds & Abstention, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Confidence Thresholds & Abstention work with portfolio-ready proof.

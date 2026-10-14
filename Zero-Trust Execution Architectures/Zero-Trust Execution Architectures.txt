@@ -1,0 +1,15 @@
+1. Zero-Trust Thinking: Verify Everything - Builds never-trust-always-check design.
+2. Identity for Agents, Tools & Data - Gives cryptographic attestation.
+3. Micro-Segmentation & Isolation - Shows blast-radius-minimized topologies.
+4. Policy Engines & Admission Control - Covers allow-by-default-deny enforcement.
+5. Egress Filtering & Data Diodes - Shows impossible-exfiltration plumbing.
+6. Secrets Brokering & Ephemerals - Covers credentials agents never see.
+7. Attested Execution & TEEs - Shows hardware-rooted trust.
+8. Immutable Audit Trails - Covers tamper-evident action logs.
+9. Continuous Verification & Re-Auth - Shows expiring trust windows.
+10. Supply-Chain Attestation - Covers verified code and models only.
+11. Break-Glass & Emergency Access - Shows controlled override paths.
+12. Pen-Testing Zero-Trust Claims - Covers proving fortress assertions.
+13. Compliance Mapping & Evidence - Shows audit-ready architectures.
+14. Cost & Latency of Paranoia - Covers affordable rigorous security.
+15. Delivery: Zero-Trust Blueprints - Enables fortress-grade deployments.

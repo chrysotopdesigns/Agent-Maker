@@ -1,0 +1,15 @@
+1. Threat Thinking: Untrusted Code First - Builds hostile-script assumptions.
+2. Restricted Interpreters & AST Gating - Gives import-and-call allowlisting.
+3. Resource-Limited Execution - Shows timeout, memory, and output caps.
+4. Filesystem & Network Denial - Covers airtight code sandboxes.
+5. Pyodide, WASM & MicroVM Options - Shows runtime choices and trade-offs.
+6. Input Validation & Output Sanitizing - Covers safe data exchange.
+7. Dependency Control in Sandboxes - Shows pinned offline packages only.
+8. Multi-Tenant Kernel Pools - Covers isolation at scale.
+9. Error Capture & Safe Tracebacks - Shows debugging without leaking internals.
+10. Breakout Testing & Red-Teaming - Covers proving escape resistance.
+11. Audit Trails for Executed Code - Shows forensic script records.
+12. Performance: Warm Pools & Caching - Covers fast safe execution.
+13. UX: Sharing Plots & Artifacts - Shows extracting results securely.
+14. Fallbacks: Static Analysis First - Covers refusing obviously malicious code.
+15. Delivery: Execution Safety Reviews - Enables approved code-running services.

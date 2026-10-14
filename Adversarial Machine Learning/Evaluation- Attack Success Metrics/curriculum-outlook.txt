@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Evaluation: Attack Success Metrics**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Evaluation: Attack Success Metrics within Adversarial Machine Learning practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Evaluation: Attack Success Metrics and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Evaluation: Attack Success Metrics**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Evaluation: Attack Success Metrics, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Evaluation: Attack Success Metrics environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Evaluation: Attack Success Metrics**
+
+**Summary:** Hands-on core techniques of Evaluation: Attack Success Metrics applied to small realistic Adversarial Machine Learning projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Evaluation: Attack Success Metrics techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Evaluation: Attack Success Metrics**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Evaluation: Attack Success Metrics work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Evaluation: Attack Success Metrics patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Evaluation: Attack Success Metrics**
+
+**Summary:** How to verify Evaluation: Attack Success Metrics work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Evaluation: Attack Success Metrics work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Evaluation: Attack Success Metrics**
+
+**Summary:** Using Evaluation: Attack Success Metrics inside larger Adversarial Machine Learning workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Evaluation: Attack Success Metrics outputs into a larger Adversarial Machine Learning workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Evaluation: Attack Success Metrics**
+
+**Summary:** Advanced methods in Evaluation: Attack Success Metrics for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Evaluation: Attack Success Metrics methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Evaluation: Attack Success Metrics**
+
+**Summary:** Making Evaluation: Attack Success Metrics work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Evaluation: Attack Success Metrics work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Evaluation: Attack Success Metrics**
+
+**Summary:** Protecting Evaluation: Attack Success Metrics work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Evaluation: Attack Success Metrics work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Evaluation: Attack Success Metrics**
+
+**Summary:** Making Evaluation: Attack Success Metrics work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Evaluation: Attack Success Metrics work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Evaluation: Attack Success Metrics**
+
+**Summary:** Realistic Adversarial Machine Learning case studies using Evaluation: Attack Success Metrics under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Evaluation: Attack Success Metrics results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Evaluation: Attack Success Metrics**
+
+**Summary:** Expert-level judgment in Evaluation: Attack Success Metrics, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Evaluation: Attack Success Metrics work with portfolio-ready proof.

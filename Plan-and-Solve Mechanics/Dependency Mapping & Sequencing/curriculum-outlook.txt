@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Dependency Mapping & Sequencing**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Dependency Mapping & Sequencing within Plan-and-Solve Mechanics practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Dependency Mapping & Sequencing and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Dependency Mapping & Sequencing**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Dependency Mapping & Sequencing, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Dependency Mapping & Sequencing environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Dependency Mapping & Sequencing**
+
+**Summary:** Hands-on core techniques of Dependency Mapping & Sequencing applied to small realistic Plan-and-Solve Mechanics projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Dependency Mapping & Sequencing techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Dependency Mapping & Sequencing**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Dependency Mapping & Sequencing work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Dependency Mapping & Sequencing patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Dependency Mapping & Sequencing**
+
+**Summary:** How to verify Dependency Mapping & Sequencing work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Dependency Mapping & Sequencing work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Dependency Mapping & Sequencing**
+
+**Summary:** Using Dependency Mapping & Sequencing inside larger Plan-and-Solve Mechanics workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Dependency Mapping & Sequencing outputs into a larger Plan-and-Solve Mechanics workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Dependency Mapping & Sequencing**
+
+**Summary:** Advanced methods in Dependency Mapping & Sequencing for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Dependency Mapping & Sequencing methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Dependency Mapping & Sequencing**
+
+**Summary:** Making Dependency Mapping & Sequencing work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Dependency Mapping & Sequencing work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Dependency Mapping & Sequencing**
+
+**Summary:** Protecting Dependency Mapping & Sequencing work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Dependency Mapping & Sequencing work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Dependency Mapping & Sequencing**
+
+**Summary:** Making Dependency Mapping & Sequencing work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Dependency Mapping & Sequencing work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Dependency Mapping & Sequencing**
+
+**Summary:** Realistic Plan-and-Solve Mechanics case studies using Dependency Mapping & Sequencing under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Dependency Mapping & Sequencing results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Dependency Mapping & Sequencing**
+
+**Summary:** Expert-level judgment in Dependency Mapping & Sequencing, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Dependency Mapping & Sequencing work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Early-Exit & Confidence Gates**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Early-Exit & Confidence Gates within Algorithmic Cost Control practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Early-Exit & Confidence Gates and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Early-Exit & Confidence Gates**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Early-Exit & Confidence Gates, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Early-Exit & Confidence Gates environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Early-Exit & Confidence Gates**
+
+**Summary:** Hands-on core techniques of Early-Exit & Confidence Gates applied to small realistic Algorithmic Cost Control projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Early-Exit & Confidence Gates techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Early-Exit & Confidence Gates**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Early-Exit & Confidence Gates work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Early-Exit & Confidence Gates patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Early-Exit & Confidence Gates**
+
+**Summary:** How to verify Early-Exit & Confidence Gates work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Early-Exit & Confidence Gates work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Early-Exit & Confidence Gates**
+
+**Summary:** Using Early-Exit & Confidence Gates inside larger Algorithmic Cost Control workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Early-Exit & Confidence Gates outputs into a larger Algorithmic Cost Control workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Early-Exit & Confidence Gates**
+
+**Summary:** Advanced methods in Early-Exit & Confidence Gates for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Early-Exit & Confidence Gates methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Early-Exit & Confidence Gates**
+
+**Summary:** Making Early-Exit & Confidence Gates work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Early-Exit & Confidence Gates work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Early-Exit & Confidence Gates**
+
+**Summary:** Protecting Early-Exit & Confidence Gates work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Early-Exit & Confidence Gates work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Early-Exit & Confidence Gates**
+
+**Summary:** Making Early-Exit & Confidence Gates work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Early-Exit & Confidence Gates work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Early-Exit & Confidence Gates**
+
+**Summary:** Realistic Algorithmic Cost Control case studies using Early-Exit & Confidence Gates under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Early-Exit & Confidence Gates results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Early-Exit & Confidence Gates**
+
+**Summary:** Expert-level judgment in Early-Exit & Confidence Gates, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Early-Exit & Confidence Gates work with portfolio-ready proof.

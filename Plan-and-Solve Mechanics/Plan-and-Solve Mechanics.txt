@@ -1,0 +1,15 @@
+1. Planning Thinking: Milestones First - Builds solve-before-executing discipline.
+2. Goal Decomposition Techniques - Gives hierarchical breakdown skill.
+3. Dependency Mapping & Sequencing - Shows ordering milestones correctly.
+4. Milestone Verification Criteria - Covers knowing each step truly done.
+5. Plan Repair & Replanning - Teaches adapting when reality diverges.
+6. Least-Commitment & Flexibility - Shows planning without over-constraining.
+7. Resource Estimation per Milestone - Covers time, token, and tool budgets.
+8. Risk-First Ordering - Shows tackling hardest unknowns early.
+9. Plan Representations: Trees & Graphs - Gives machine-readable plan formats.
+10. Human-Readable Plan Summaries - Covers confirmable plan UX.
+11. Execution Monitoring vs Plan - Shows detecting drift from milestones.
+12. Subgoal Delegation to Subagents - Covers parallel milestone execution.
+13. Planning Benchmarks & Ablations - Shows measuring plan quality.
+14. Failure Patterns: Dead-End Plans - Covers recognizing doomed approaches early.
+15. Delivery: Plan Artifacts & Reviews - Enables approved execution roadmaps.

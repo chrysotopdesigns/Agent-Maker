@@ -1,0 +1,15 @@
+1. Intent Modeling & Goal Taxonomies - Builds precise want-vs-task separation thinking.
+2. Requirement Elicitation from Vague Prompts - Gives first-try clarification-free parsing skill.
+3. Task Decomposition & Machine-Readable Specs - Shows turning objectives into executable steps.
+4. Ambiguity Detection & Resolution - Teaches spotting underspecified goals automatically.
+5. Prompt Analysis & Constraint Extraction - Covers surfacing hidden requirements.
+6. User Modeling & Preference Inference - Shows personalizing without interrogation.
+7. Ontologies & Domain Vocabularies - Covers grounding language in machine terms.
+8. Validation: Confirm-Without-Annoying UX - Teaches lightweight intent checks.
+9. Few-Shot Intent Examples & Libraries - Shows reusable intent patterns.
+10. Evaluation: Intent Accuracy Metrics - Covers measuring first-try success.
+11. Multilingual & Messy Input Handling - Shows robust parsing of real user text.
+12. Context Fusion: History & Files - Teaches resolving intent from surroundings.
+13. Failure Modes & Misinterpretation Repair - Covers graceful recovery from wrong guesses.
+14. Tooling: Classifiers, LLMs & Rules - Gives hybrid intent stack fluency.
+15. Delivery: Intent Specs Engineers Trust - Enables handoff-ready machine tasks.

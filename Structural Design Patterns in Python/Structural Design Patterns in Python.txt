@@ -1,0 +1,15 @@
+1. Pattern Thinking: Problems before Patterns - Builds judicious-use discipline.
+2. Creational: Factory, Builder & Singleton - Gives controlled object creation.
+3. Structural: Adapter, Facade & Proxy - Shows taming external complexity.
+4. Behavioral: Strategy, Observer & Command - Covers swappable agent behaviors.
+5. Dependency Injection & Composition - Shows testable wiring over globals.
+6. Typing: Protocols & Generics - Covers self-documenting Python contracts.
+7. Error Design: Hierarchies & Context - Shows meaningful exception systems.
+8. Concurrency Patterns: Pools & Queues - Covers safe parallel agent work.
+9. Plugin Architectures & Registries - Shows extensible agent codebases.
+10. Refactoring to Patterns - Teaches evolving code without rewrites.
+11. Anti-Patterns & Over-Engineering - Covers knowing when not to pattern.
+12. Testing Patterns: Fakes & Fixtures - Shows fast deterministic suites.
+13. Documentation: ADRs & Diagrams - Covers decision records teams trust.
+14. Performance-Aware Patterns - Shows patterns that stay fast.
+15. Delivery: Pattern Catalogs & Reviews - Enables consistent team codebases.

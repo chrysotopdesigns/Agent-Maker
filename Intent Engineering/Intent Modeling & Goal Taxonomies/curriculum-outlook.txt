@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Intent Modeling & Goal Taxonomies**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Intent Modeling & Goal Taxonomies within Intent Engineering practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Intent Modeling & Goal Taxonomies and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Intent Modeling & Goal Taxonomies**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Intent Modeling & Goal Taxonomies, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Intent Modeling & Goal Taxonomies environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Intent Modeling & Goal Taxonomies**
+
+**Summary:** Hands-on core techniques of Intent Modeling & Goal Taxonomies applied to small realistic Intent Engineering projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Intent Modeling & Goal Taxonomies techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Intent Modeling & Goal Taxonomies**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Intent Modeling & Goal Taxonomies work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Intent Modeling & Goal Taxonomies patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Intent Modeling & Goal Taxonomies**
+
+**Summary:** How to verify Intent Modeling & Goal Taxonomies work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Intent Modeling & Goal Taxonomies work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Intent Modeling & Goal Taxonomies**
+
+**Summary:** Using Intent Modeling & Goal Taxonomies inside larger Intent Engineering workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Intent Modeling & Goal Taxonomies outputs into a larger Intent Engineering workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Intent Modeling & Goal Taxonomies**
+
+**Summary:** Advanced methods in Intent Modeling & Goal Taxonomies for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Intent Modeling & Goal Taxonomies methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Intent Modeling & Goal Taxonomies**
+
+**Summary:** Making Intent Modeling & Goal Taxonomies work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Intent Modeling & Goal Taxonomies work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Intent Modeling & Goal Taxonomies**
+
+**Summary:** Protecting Intent Modeling & Goal Taxonomies work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Intent Modeling & Goal Taxonomies work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Intent Modeling & Goal Taxonomies**
+
+**Summary:** Making Intent Modeling & Goal Taxonomies work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Intent Modeling & Goal Taxonomies work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Intent Modeling & Goal Taxonomies**
+
+**Summary:** Realistic Intent Engineering case studies using Intent Modeling & Goal Taxonomies under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Intent Modeling & Goal Taxonomies results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Intent Modeling & Goal Taxonomies**
+
+**Summary:** Expert-level judgment in Intent Modeling & Goal Taxonomies, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Intent Modeling & Goal Taxonomies work with portfolio-ready proof.

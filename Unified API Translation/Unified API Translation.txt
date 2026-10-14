@@ -1,0 +1,15 @@
+1. API Thinking: Contracts & Payloads - Builds schema-first integration intuition.
+2. Reading Docs & OpenAPI Specs - Gives rapid endpoint comprehension.
+3. Intent-to-Payload Mapping - Shows conversational-to-JSON translation.
+4. Schema Validation & Repair - Covers fixing malformed agent outputs.
+5. Auth, Headers & Pagination - Shows production-ready API calls.
+6. Error Codes & Retry Semantics - Covers resilient API consumption.
+7. Multi-API Composition - Shows chaining services into workflows.
+8. Type-Safe Client Generation - Covers SDKs agents cannot misuse.
+9. Mocking & Contract Testing - Shows proving translations pre-live.
+10. Versioning & Breaking Changes - Covers surviving API evolution.
+11. Rate Limits & Quota Management - Shows polite high-volume usage.
+12. Security: Secrets & Scopes - Covers least-privilege API access.
+13. Observability: Request Tracing - Teaches debugging integration failures.
+14. Natural-Language Query Layers - Shows conversational querying over any API.
+15. Delivery: Integration Catalogs - Enables reusable translation library.

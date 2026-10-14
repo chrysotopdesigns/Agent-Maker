@@ -1,0 +1,15 @@
+1. Abstraction Thinking: Providers as Plugins - Builds swappable-model architecture.
+2. Unified Chat & Embedding Interfaces - Gives provider-neutral call layers.
+3. Capability Detection & Fallbacks - Shows adapting to model strengths.
+4. Config-Driven Model Selection - Covers no-rewrite provider switching.
+5. Prompt Portability & Normalization - Shows prompts that work everywhere.
+6. Cost & Latency Routing Tables - Covers optimal model picking per task.
+7. Testing Across Providers - Shows matrix-tested agent behavior.
+8. Feature Flags for Model Features - Covers graceful tool-use degradation.
+9. Key Management & Multi-Tenant BYOK - Shows user-provided-key flows.
+10. Observability per Provider - Covers comparing quality and spend.
+11. Caching & Semantic Deduplication - Shows provider-independent savings.
+12. Fine-Tune vs Prompt Strategies - Covers portable improvement paths.
+13. Vendor Lock-In Audits - Shows measuring coupling regularly.
+14. Migration Playbooks - Covers switching providers in hours.
+15. Delivery: Provider Scorecards - Enables informed model choices.

@@ -1,0 +1,15 @@
+1. LangChain Mental Models: Chains & Runnables - Builds composable-pipeline intuition.
+2. Prompt Templates & Output Parsers - Gives structured LLM I/O skill.
+3. Document Loaders & Splitters - Shows ingestion pipeline basics.
+4. Retrievers & Vector Stores - Covers RAG inside LangChain.
+5. Agents, Tools & Executors - Shows LangChain agent construction.
+6. Memory Modules & History - Covers conversational state handling.
+7. LangGraph: Stateful Control Flows - Shows graphs beyond linear chains.
+8. Callbacks, Tracing & LangSmith - Covers debugging and evaluation.
+9. Streaming & Async Execution - Shows responsive production apps.
+10. Custom Tools & Structured Outputs - Covers extending LangChain safely.
+11. Testing Chains & Regression Suites - Shows proving chain behavior.
+12. Deployment: Serving & Scaling - Covers production LangChain apps.
+13. Version Pinning & Migration - Shows surviving fast ecosystem churn.
+14. Cost Tracking per Chain - Covers spend-aware chain design.
+15. Delivery: Chain Catalogs & Docs - Enables reusable LangChain assets.

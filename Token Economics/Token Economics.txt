@@ -1,0 +1,15 @@
+1. Token Thinking: Units of Cost - Builds price-per-thought intuition.
+2. Tokenization: BPE & Multilingual Quirks - Gives accurate usage prediction.
+3. Pricing Models Across Providers - Shows comparing true per-task costs.
+4. Input vs Output Asymmetry - Covers designing for expensive generations.
+5. Measuring: Meters & Attribution - Shows per-feature token accounting.
+6. Forecasting Spend & Budgets - Covers no-surprise API bills.
+7. Caching, Batching & Discounts - Shows structural cost reduction.
+8. Quality-vs-Cost Curves - Covers cheapest model that suffices.
+9. Benchmarking Cost per Success - Shows value-not-price optimization.
+10. Contract & Commitment Pricing - Covers enterprise rate strategy.
+11. FinOps Dashboards & Alerts - Shows real-time spend visibility.
+12. Chargeback & Tenant Quotas - Covers fair multi-user allocation.
+13. Token-Efficient Prompt Design - Shows saying more with fewer tokens.
+14. Auditing Waste & Regressions - Covers catching cost creep.
+15. Delivery: Cost Architecture Reviews - Enables bills-by-design systems.

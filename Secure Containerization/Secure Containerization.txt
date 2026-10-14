@@ -1,0 +1,15 @@
+1. Container Thinking: Immutable Images - Builds reproducible-run intuition.
+2. Dockerfiles & Layer Caching - Gives fast reliable image builds.
+3. Minimal Base Images & SBOMs - Shows slim auditable containers.
+4. Secrets, Config & Environment - Covers runtime injection without baking.
+5. User Namespaces & Rootless - Shows least-privilege containers.
+6. Network Policies & Isolation - Covers contained agent networking.
+7. Resource Limits & Health Checks - Shows stable orchestrated runs.
+8. Image Scanning & CVE Remediation - Covers vulnerability-free images.
+9. Registries & Signed Images - Shows trusted image supply chains.
+10. Compose & Multi-Service Agents - Covers orchestrated local stacks.
+11. Kubernetes Basics for Agents - Shows scheduled agent workloads.
+12. Ephemeral Jobs & Cleanup - Covers no-residue execution.
+13. Debugging Containers Live - Teaches inspecting without weakening.
+14. Reproducibility: Digests & Locks - Covers bit-identical reruns.
+15. Delivery: Container Hardening Checklists - Enables security-reviewed images.

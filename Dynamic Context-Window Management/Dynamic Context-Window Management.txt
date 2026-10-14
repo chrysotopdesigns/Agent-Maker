@@ -1,0 +1,15 @@
+1. Window Thinking: Budgets of Attention - Builds finite-memory design.
+2. Measuring Context Pressure - Gives live fullness telemetry.
+3. Prioritization: Keep vs Drop - Shows ranking content by value.
+4. Summarization Checkpoints - Covers compressing history without losing plot.
+5. Sliding Windows & Recency - Shows fresh-relevant context retention.
+6. Retrieval-Augmented Refill - Covers fetching back dropped facts.
+7. Structured State over Raw Logs - Shows compact machine-readable memory.
+8. Multi-Turn Planning Horizons - Covers reserving room to finish.
+9. Model-Specific Window Tactics - Shows adapting to each limit.
+10. Overflow Prevention & Preemption - Covers acting before hitting walls.
+11. Evaluation: Lost-in-the-Middle Tests - Shows proving recall under load.
+12. Cost-Aware Window Sizing - Covers paying only for needed context.
+13. Debugging Truncated Reasoning - Shows diagnosing amnesia failures.
+14. UX: Progress Under Limits - Covers honest long-task communication.
+15. Delivery: Window Health Dashboards - Enables never-OOM agent runs.

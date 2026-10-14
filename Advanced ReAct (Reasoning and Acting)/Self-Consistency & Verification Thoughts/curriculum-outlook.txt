@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Self-Consistency & Verification Thoughts**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Self-Consistency & Verification Thoughts within Advanced ReAct (Reasoning and Acting) Frameworks practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Self-Consistency & Verification Thoughts and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Self-Consistency & Verification Thoughts**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Self-Consistency & Verification Thoughts, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Self-Consistency & Verification Thoughts environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Self-Consistency & Verification Thoughts**
+
+**Summary:** Hands-on core techniques of Self-Consistency & Verification Thoughts applied to small realistic Advanced ReAct (Reasoning and Acting) Frameworks projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Self-Consistency & Verification Thoughts techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Self-Consistency & Verification Thoughts**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Self-Consistency & Verification Thoughts work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Self-Consistency & Verification Thoughts patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Self-Consistency & Verification Thoughts**
+
+**Summary:** How to verify Self-Consistency & Verification Thoughts work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Self-Consistency & Verification Thoughts work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Self-Consistency & Verification Thoughts**
+
+**Summary:** Using Self-Consistency & Verification Thoughts inside larger Advanced ReAct (Reasoning and Acting) Frameworks workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Self-Consistency & Verification Thoughts outputs into a larger Advanced ReAct (Reasoning and Acting) Frameworks workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Self-Consistency & Verification Thoughts**
+
+**Summary:** Advanced methods in Self-Consistency & Verification Thoughts for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Self-Consistency & Verification Thoughts methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Self-Consistency & Verification Thoughts**
+
+**Summary:** Making Self-Consistency & Verification Thoughts work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Self-Consistency & Verification Thoughts work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Self-Consistency & Verification Thoughts**
+
+**Summary:** Protecting Self-Consistency & Verification Thoughts work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Self-Consistency & Verification Thoughts work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Self-Consistency & Verification Thoughts**
+
+**Summary:** Making Self-Consistency & Verification Thoughts work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Self-Consistency & Verification Thoughts work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Self-Consistency & Verification Thoughts**
+
+**Summary:** Realistic Advanced ReAct (Reasoning and Acting) Frameworks case studies using Self-Consistency & Verification Thoughts under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Self-Consistency & Verification Thoughts results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Self-Consistency & Verification Thoughts**
+
+**Summary:** Expert-level judgment in Self-Consistency & Verification Thoughts, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Self-Consistency & Verification Thoughts work with portfolio-ready proof.

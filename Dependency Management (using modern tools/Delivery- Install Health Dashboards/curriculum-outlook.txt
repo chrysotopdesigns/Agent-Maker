@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Delivery: Install Health Dashboards**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Delivery: Install Health Dashboards within Dependency Management (using modern tools like uv) practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Delivery: Install Health Dashboards and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Delivery: Install Health Dashboards**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Delivery: Install Health Dashboards, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Delivery: Install Health Dashboards environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Delivery: Install Health Dashboards**
+
+**Summary:** Hands-on core techniques of Delivery: Install Health Dashboards applied to small realistic Dependency Management (using modern tools like uv) projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Delivery: Install Health Dashboards techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Delivery: Install Health Dashboards**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Delivery: Install Health Dashboards work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Delivery: Install Health Dashboards patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Delivery: Install Health Dashboards**
+
+**Summary:** How to verify Delivery: Install Health Dashboards work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Delivery: Install Health Dashboards work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Delivery: Install Health Dashboards**
+
+**Summary:** Using Delivery: Install Health Dashboards inside larger Dependency Management (using modern tools like uv) workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Delivery: Install Health Dashboards outputs into a larger Dependency Management (using modern tools like uv) workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Delivery: Install Health Dashboards**
+
+**Summary:** Advanced methods in Delivery: Install Health Dashboards for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Delivery: Install Health Dashboards methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Delivery: Install Health Dashboards**
+
+**Summary:** Making Delivery: Install Health Dashboards work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Delivery: Install Health Dashboards work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Delivery: Install Health Dashboards**
+
+**Summary:** Protecting Delivery: Install Health Dashboards work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Delivery: Install Health Dashboards work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Delivery: Install Health Dashboards**
+
+**Summary:** Making Delivery: Install Health Dashboards work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Delivery: Install Health Dashboards work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Delivery: Install Health Dashboards**
+
+**Summary:** Realistic Dependency Management (using modern tools like uv) case studies using Delivery: Install Health Dashboards under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Delivery: Install Health Dashboards results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Delivery: Install Health Dashboards**
+
+**Summary:** Expert-level judgment in Delivery: Install Health Dashboards, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Delivery: Install Health Dashboards work with portfolio-ready proof.

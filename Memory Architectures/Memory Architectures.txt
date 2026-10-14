@@ -1,0 +1,15 @@
+1. Memory Thinking: Working vs Long-Term - Builds tiered-recall intuition.
+2. Embeddings & Vector Search - Gives semantic retrieval fluency.
+3. Vector Databases: Indexing & Queries - Shows production recall at scale.
+4. Knowledge Graphs & Relations - Covers connected-fact memory.
+5. Chunking, Metadata & Hybrid Search - Teaches retrievable document design.
+6. Episodic Memory: Past Runs & Lessons - Shows never-repeat-mistakes storage.
+7. Memory Write Policies & Forgetting - Covers curated vs hoarded memory.
+8. Context Injection & Grounding - Shows using recalled facts in reasoning.
+9. Evaluation: Recall Precision & Faithfulness - Covers measuring memory quality.
+10. Privacy & Memory Segregation - Shows per-user isolated recall.
+11. Streaming Memory Updates - Covers learning across thousands of steps.
+12. Conflict Resolution & Truth Maintenance - Teaches handling contradictory memories.
+13. Tooling: Stores, Caches & Pipelines - Gives memory stack fluency.
+14. Failure Modes: Hallucinated Recall - Covers verifying retrieved context.
+15. Delivery: Memory Audits & Exports - Enables inspectable agent memory.

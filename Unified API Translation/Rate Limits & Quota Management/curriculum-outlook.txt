@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Rate Limits & Quota Management**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Rate Limits & Quota Management within Unified API Translation practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Rate Limits & Quota Management and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Rate Limits & Quota Management**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Rate Limits & Quota Management, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Rate Limits & Quota Management environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Rate Limits & Quota Management**
+
+**Summary:** Hands-on core techniques of Rate Limits & Quota Management applied to small realistic Unified API Translation projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Rate Limits & Quota Management techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Rate Limits & Quota Management**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Rate Limits & Quota Management work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Rate Limits & Quota Management patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Rate Limits & Quota Management**
+
+**Summary:** How to verify Rate Limits & Quota Management work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Rate Limits & Quota Management work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Rate Limits & Quota Management**
+
+**Summary:** Using Rate Limits & Quota Management inside larger Unified API Translation workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Rate Limits & Quota Management outputs into a larger Unified API Translation workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Rate Limits & Quota Management**
+
+**Summary:** Advanced methods in Rate Limits & Quota Management for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Rate Limits & Quota Management methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Rate Limits & Quota Management**
+
+**Summary:** Making Rate Limits & Quota Management work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Rate Limits & Quota Management work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Rate Limits & Quota Management**
+
+**Summary:** Protecting Rate Limits & Quota Management work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Rate Limits & Quota Management work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Rate Limits & Quota Management**
+
+**Summary:** Making Rate Limits & Quota Management work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Rate Limits & Quota Management work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Rate Limits & Quota Management**
+
+**Summary:** Realistic Unified API Translation case studies using Rate Limits & Quota Management under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Rate Limits & Quota Management results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Rate Limits & Quota Management**
+
+**Summary:** Expert-level judgment in Rate Limits & Quota Management, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Rate Limits & Quota Management work with portfolio-ready proof.

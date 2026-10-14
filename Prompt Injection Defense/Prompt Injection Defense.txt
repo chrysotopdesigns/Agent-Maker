@@ -1,0 +1,15 @@
+1. Adversary Thinking: Data Is Code - Builds zero-trust-input posture.
+2. Injection Taxonomy: Direct & Indirect - Gives attack-pattern fluency.
+3. Delimiters, Sandboxing & Hierarchy - Shows system-vs-data separation.
+4. Detection: Classifiers & Heuristics - Covers spotting hidden instructions.
+5. Neutralization: Quoting & Escaping - Shows defanging malicious text.
+6. Tool-Output Scrubbing - Covers cleaning web and file content.
+7. Least-Privilege Tool Design - Shows limiting what injected prompts can do.
+8. Human Confirmation Gates - Covers supervised risky actions.
+9. Red-Team Prompt Suites - Shows attacking your own agent.
+10. Monitoring: Injection Telemetry - Covers detecting live attempts.
+11. Incident Response for Hijacks - Shows containing successful injections.
+12. Model-Level Defenses & Tuning - Covers hardened instruction hierarchy.
+13. Supply-Chain: Poisoned Docs - Shows vetting ingested content.
+14. User Education & Warnings - Covers honest risk communication.
+15. Delivery: Injection Resistance Reports - Enables tested secure agents.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Logging State Histories**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Logging State Histories within State Machines practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Logging State Histories and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Logging State Histories**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Logging State Histories, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Logging State Histories environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Logging State Histories**
+
+**Summary:** Hands-on core techniques of Logging State Histories applied to small realistic State Machines projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Logging State Histories techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Logging State Histories**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Logging State Histories work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Logging State Histories patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Logging State Histories**
+
+**Summary:** How to verify Logging State Histories work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Logging State Histories work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Logging State Histories**
+
+**Summary:** Using Logging State Histories inside larger State Machines workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Logging State Histories outputs into a larger State Machines workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Logging State Histories**
+
+**Summary:** Advanced methods in Logging State Histories for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Logging State Histories methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Logging State Histories**
+
+**Summary:** Making Logging State Histories work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Logging State Histories work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Logging State Histories**
+
+**Summary:** Protecting Logging State Histories work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Logging State Histories work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Logging State Histories**
+
+**Summary:** Making Logging State Histories work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Logging State Histories work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Logging State Histories**
+
+**Summary:** Realistic State Machines case studies using Logging State Histories under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Logging State Histories results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Logging State Histories**
+
+**Summary:** Expert-level judgment in Logging State Histories, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Logging State Histories work with portfolio-ready proof.

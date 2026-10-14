@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Agents, Tools & Executors**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Agents, Tools & Executors within LangChain practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Agents, Tools & Executors and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Agents, Tools & Executors**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Agents, Tools & Executors, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Agents, Tools & Executors environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Agents, Tools & Executors**
+
+**Summary:** Hands-on core techniques of Agents, Tools & Executors applied to small realistic LangChain projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Agents, Tools & Executors techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Agents, Tools & Executors**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Agents, Tools & Executors work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Agents, Tools & Executors patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Agents, Tools & Executors**
+
+**Summary:** How to verify Agents, Tools & Executors work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Agents, Tools & Executors work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Agents, Tools & Executors**
+
+**Summary:** Using Agents, Tools & Executors inside larger LangChain workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Agents, Tools & Executors outputs into a larger LangChain workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Agents, Tools & Executors**
+
+**Summary:** Advanced methods in Agents, Tools & Executors for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Agents, Tools & Executors methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Agents, Tools & Executors**
+
+**Summary:** Making Agents, Tools & Executors work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Agents, Tools & Executors work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Agents, Tools & Executors**
+
+**Summary:** Protecting Agents, Tools & Executors work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Agents, Tools & Executors work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Agents, Tools & Executors**
+
+**Summary:** Making Agents, Tools & Executors work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Agents, Tools & Executors work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Agents, Tools & Executors**
+
+**Summary:** Realistic LangChain case studies using Agents, Tools & Executors under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Agents, Tools & Executors results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Agents, Tools & Executors**
+
+**Summary:** Expert-level judgment in Agents, Tools & Executors, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Agents, Tools & Executors work with portfolio-ready proof.

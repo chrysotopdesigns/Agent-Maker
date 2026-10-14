@@ -1,0 +1,15 @@
+1. Adversary Thinking: Attack Surfaces - Builds break-your-own-model discipline.
+2. Evasion: Adversarial Examples - Gives perturbation-attack fluency.
+3. Prompt Attacks & Jailbreaks - Shows bypassing model refusals.
+4. Data Poisoning & Backdoors - Covers corrupted-training detection.
+5. Extraction: Models & Prompts - Shows stealing IP through APIs.
+6. Membership & Privacy Attacks - Covers data-leakage measurement.
+7. Evaluation: Attack Success Metrics - Shows quantifying robustness.
+8. Defenses: Hardening & Detection - Covers patching found holes.
+9. Red-Team Operations & Playbooks - Shows systematic agent assaults.
+10. Purple-Teaming & Fix Loops - Covers attack-then-patch cadences.
+11. Tool-Chain Attacks - Shows compromising agent dependencies.
+12. Monitoring for Live Attacks - Covers detecting exploitation attempts.
+13. Responsible Disclosure Programs - Shows bug bounties for agents.
+14. Threat Intel & Trend Tracking - Covers staying ahead of attackers.
+15. Delivery: Robustness Scorecards - Enables hacker-tested releases.
