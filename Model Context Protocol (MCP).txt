@@ -1,0 +1,15 @@
+1. MCP Thinking: Hosts, Servers & Tools - Builds standard-protocol intuition.
+2. MCP Servers: Resources & Prompts - Gives exposable-capability design.
+3. Tool Schemas & Discovery - Shows self-describing tool ecosystems.
+4. Transports: Stdio, SSE & HTTP - Covers connection patterns.
+5. Auth & Permission Scoping - Shows secure server access.
+6. Building Custom MCP Servers - Covers wrapping files, DBs, and APIs.
+7. Client Integration & Agent Wiring - Shows plugging servers into agents.
+8. Sampling & Human Approvals - Covers supervised model actions.
+9. Testing: Conformance & Mocks - Shows proving server correctness.
+10. Versioning & Capability Negotiation - Covers evolving without breakage.
+11. Observability: Tool Call Tracing - Teaches debugging MCP flows.
+12. Sandboxing MCP Execution - Shows containing tool blast radius.
+13. Multi-Server Composition - Covers orchestrating many servers.
+14. Security Reviews for MCP Tools - Shows auditing exposed actions.
+15. Delivery: Server Registries & Docs - Enables discoverable MCP fleets.
